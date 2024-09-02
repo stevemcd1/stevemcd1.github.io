@@ -9,38 +9,30 @@
  - [Quantitative analysis (in R) tutorials](https://github.com/stevemcd1/tutorials)
  - Follow me on X:[@SteveMcD1](https://x.com/Steve_McD1).
 
-
-
-
-
-
-
-
- 
  ---
 
 ## Teaching
 #### Substantive
-SOC/ANT 261 - Technology in Society and Culture
-SOC 203 - Social Problems
-SOC 205 - Jobs and Work
-SOC 495 - Social Capital
-SOC 736 - Social Stratification
-SOC 752 - Work and Industry
-SOC 754 - Economic Sociology
+- SOC/ANT 261 - Technology in Society and Culture
+- SOC 203 - Social Problems
+- SOC 205 - Jobs and Work
+- SOC 495 - Social Capital
+- SOC 736 - Social Stratification
+- SOC 752 - Work and Industry
+- SOC 754 - Economic Sociology
 
 #### Methodological
-DSC 295 - Introduction to Social Network Analysis
-DSC 595 - Advanced Social Network Analysis
-SOC 300 - Methods of Social Research
-SOC 429 - Data Analysis in Sociology
-SOC 708 - Advanced Sociological Analysis (rotating topics)
-- Social Network Analysis
-- Computational Text Analysis
-- Causal Inference
-- Missing Data
-SOC 711 - Research Methods in Sociology
-SOC 795 - Theory Construction
+- DSC 295 - Introduction to Social Network Analysis
+- DSC 595 - Advanced Social Network Analysis
+- SOC 300 - Methods of Social Research
+- SOC 429 - Data Analysis in Sociology
+- SOC 708 - Advanced Sociological Analysis (rotating topics)
+-- Social Network Analysis
+-- Computational Text Analysis
+-- Causal Inference
+-- Missing Data
+- SOC 711 - Research Methods in Sociology
+- SOC 795 - Theory Construction
 
 ## Research (recent examples)
 #### Technology, Organizations, and Labor Market Inequality
@@ -55,7 +47,7 @@ SOC 795 - Theory Construction
 4. [What You Know or Who You Know? Occupation-Specific Work Experience and Job Matching through Social Networks](https://www.sciencedirect.com/science/article/abs/pii/S0049089X11001074)
 #### Organizations, Industries, and Mobility
 1. [Linguistic Employment Niches: Southern Dialect across Industries](https://doi.org/10.1177/2378023121999161)
-2. [Gender Inequality in Relational Position-Taking: An Analysis of Intra-Organizational Job Mobility Networks][https://doi.org/10.1016/j.ssresearch.2021.102622]
+2. [Gender Inequality in Relational Position-Taking: An Analysis of Intra-Organizational Job Mobility Networks](https://doi.org/10.1016/j.ssresearch.2021.102622)
 3. [The Structure of Internal Job Mobility and Organizational Wage Inequality](https://www.sciencedirect.com/science/article/abs/pii/S0276562416300257)
 #### Mentoring and Attainment
 1. [The Long Arm of Mentoring: A Counterfactual Analysis of Natural Youth Mentoring and Employment Outcomes in Early Careers](https://link.springer.com/article/10.1007/s10464-014-9670-2)
