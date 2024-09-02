@@ -2,11 +2,11 @@
  
  I am Professor of Sociology and University Faculty Scholar at North Carolina State University.
  
- I study how social networks and social capital provide advantages and disadvantages to individuals in labor markets, in organizations, and across work careers. I am also interested in how internet and computing technologies tend to exacerbate those (dis)advantages.  
+ I study how social networks and social capital provide advantages and disadvantages in labor markets, in organizations, and across work careers. I am also interested in how internet and computing technologies tend to exacerbate those (dis)advantages.  
 
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
  - [Google Scholar site](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
- - [Quantitative analysis (in R) tutorials](https://github.com/stevemcd1/tutorials)
+ - [Quantitative analysis tutorials (in R)](https://github.com/stevemcd1/tutorials)
  - Follow me on X:[@SteveMcD1](https://x.com/Steve_McD1).
 
  ---
