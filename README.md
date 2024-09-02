@@ -27,10 +27,10 @@
 - SOC 300 - Methods of Social Research
 - SOC 429 - Data Analysis in Sociology
 - SOC 708 - Advanced Sociological Analysis (rotating topics)
--- Social Network Analysis
--- Computational Text Analysis
--- Causal Inference
--- Missing Data
+  - Social Network Analysis
+  - Computational Text Analysis
+  - Causal Inference
+  - Missing Data
 - SOC 711 - Research Methods in Sociology
 - SOC 795 - Theory Construction
 
