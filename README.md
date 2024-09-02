@@ -2,7 +2,7 @@
  
  I am Professor of Sociology and University Faculty Scholar at North Carolina State University.
  
- I study how social networks and social capital affect success in labor markets, in organizations, and across work careers. I am also interested in how internet and computing technologies tend to exacerbate social network/capital inequalities.  
+ I study how social networks and social capital affect success in labor markets, in organizations, and across work careers. I am also interested in how the internet and platform technologies tend to exacerbate social network/capital inequalities.  
 
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
  - [Google Scholar site](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
