@@ -2,7 +2,7 @@
 <img align="left" src="steve_blowing_rock_smB.jpg">
  
  - [Curriculum vitae](https://smcdonald.wordpress.ncsu.edu/curriculum-vitae/)
- - [Research](https://smcdonald.wordpress.ncsu.edu/research/)
+ - [Research](/research.html)
  - [Teaching](/teaching.html)
  - [WolfWebs](https://sites.google.com/ncsu.edu/ncsuwolfwebs/home)
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
