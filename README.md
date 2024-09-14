@@ -1,4 +1,4 @@
-### Professor of Sociology and University Faculty Scholar, North Carolina State University
+### Professor of Sociology and University Faculty Scholar,  North Carolina State University  
 <img align="left" src="steve_blowing_rock_smB.jpg">
  
  - [Curriculum vitae](/cv.pdf)
@@ -8,8 +8,7 @@
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
  - [Google Scholar page](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
  - [Quantitative analysis tutorials (in R)](/tutorials/index.html)
- - [@SteveMcD1](https://x.com/Steve_McD1)
- - [Handbook on Inequality and Social Capital](https://www.e-elgar.com/shop/usd/handbook-on-inequality-and-social-capital-9781802202366.html)
+ - [Handbook on Inequality and Social Capital](https://www.e-elgar.com/shop/usd/handbook-on-inequality-and-social-capital-9781802202366.html)  
 
  ---
 
