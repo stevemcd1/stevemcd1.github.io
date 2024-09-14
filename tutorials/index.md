@@ -3,6 +3,7 @@ layout: default
 title: "Tutorials"
 
 ---
+<title>{{ page.title }} | {{ site.title }}</title>
 
 ## Tutorials: Quantitative Analysis in R
 
