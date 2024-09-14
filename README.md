@@ -1,14 +1,16 @@
 ## Professor of Sociology and University Faculty Scholar, North Carolina State University
 <img align="left" src="steve_blowing_rock_smB.jpg">
  
- I am Professor of Sociology and University Faculty Scholar at North Carolina State University.
- 
- I study how social networks and social capital affect success in labor markets, in organizations, and across work careers. I am also interested in how the internet and platform technologies tend to exacerbate social network/capital inequalities.  
+ I study social networks and social capital in labor markets, in organizations, and across work careers. I am also interested in how the internet and platform technologies tend to exacerbate inequalities associated with social network and social capital.  
 
+ - [Curriculum vitae](https://smcdonald.wordpress.ncsu.edu/curriculum-vitae/)
+ - [Research](https://smcdonald.wordpress.ncsu.edu/research/)
+ - [Teaching](https://smcdonald.wordpress.ncsu.edu/teaching/)
+ - [WolfWebs](https://sites.google.com/ncsu.edu/ncsuwolfwebs/home)
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
- - [Google Scholar site](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
+ - [Google Scholar page](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
  - [Quantitative analysis tutorials (in R)](https://github.com/stevemcd1/tutorials)
- - Follow me on X:[@SteveMcD1](https://x.com/Steve_McD1).
+ - [@SteveMcD1](https://x.com/Steve_McD1).
 
  ---
 
