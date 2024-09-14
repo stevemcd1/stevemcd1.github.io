@@ -1,4 +1,7 @@
-### Professor of Sociology and University Faculty Scholar,  North Carolina State University  
+### |
+| Professor of Sociology and University Faculty Scholar,  
+| North Carolina State University
+
 <img align="left" src="steve_blowing_rock_smB.jpg">
  
  - [Curriculum vitae](/cv.pdf)
