@@ -1,3 +1,7 @@
+---
+title: "Tutorials"
+---
+
 ## Tutorials: Quantitative Analysis in R
 
 1. [Intro to R](https://htmlpreview.github.io/?https://github.com/stevemcd1/tutorials/blob/main/intro_to_R.html)
