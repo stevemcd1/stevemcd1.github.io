@@ -10,6 +10,7 @@
  - [Quantitative analysis tutorials (in R)](https://github.com/stevemcd1/tutorials)
  - [@SteveMcD1](https://x.com/Steve_McD1)
  - [Handbook on Inequality and Social Capital](https://www.e-elgar.com/shop/usd/handbook-on-inequality-and-social-capital-9781802202366.html)
+
  ---
 
  I study social networks and social capital in labor markets, in organizations, and across work careers. I am also interested in how the internet and platform technologies may exacerbate or ameliorate inequalities associated with social networks and social capital.  
