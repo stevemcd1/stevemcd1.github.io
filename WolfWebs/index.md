@@ -1,9 +1,10 @@
 ---
 layout: ww
 title: "WolfWebs"
-subtitle: "Social Network Analysis at NC State"
 ---
 [Affiliates](/WolfWebs/affiliates.html) | [Research](/WolfWebs/research.html) | [Coursework](/WolfWebs/coursework.html) | [Events](/WolfWebs/events.html)
+
+## Social Network Analysis at NC State
 
 <img align="left" src="logo_small.png">
 
