@@ -4,7 +4,7 @@ title: "WolfWebs"
 ---
 ## Social Network Analysis at NC State
 
-[About](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
+[WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
 <img align="left" src="logo_small.png">
 
