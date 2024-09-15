@@ -20,7 +20,6 @@ Assistant Professor of Education (Learning, Design, and Technology), NC State
 [Andrew Davis](https://chass.ncsu.edu/people/apdavis5/)
 Assistant Professor of Sociology, NC State
 
-## Faculty Affiliates (other)
 [Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
 Assistant Professor of Sociology, MNSU-Mankato
 
