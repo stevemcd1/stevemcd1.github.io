@@ -31,8 +31,8 @@ Postdoctoral Fellow, Sociology, NC State
 Postdoctoral Fellow, Data Science Academy, NC State
 
 ## Student Affiliates
-Adam Goldfarb, Sociology, NC State
-Daulton Selke, Socio-linguistics, NC State
-John Daniel, Sociology, NC State
-Alex Yan, Sociology, Yale University
-Jingyi Zuo, Sociology, NC State
+ - John Daniel, Sociology, NC State
+ - Adam Goldfarb, Sociology, NC State
+ - Daulton Selke, Socio-linguistics, NC State
+ - Alex Yan, Sociology, Yale University
+ - Jingyi Zuo, Sociology, NC State
