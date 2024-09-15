@@ -8,7 +8,7 @@
  - [WolfWebs](/WolfWebs/)
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
  - [Google Scholar page](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
- - [Quantitative analysis tutorials (in R)](/tutorials/index.html)
+ - [Tutorials: quant analysis in R](/tutorials/index.html)
  - [Handbook on Inequality and Social Capital](https://www.e-elgar.com/shop/usd/handbook-on-inequality-and-social-capital-9781802202366.html)  
 
  ---
