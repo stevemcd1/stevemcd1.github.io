@@ -1,9 +1,10 @@
 ---
 layout: ww
-title: "WolfWebs: Social Network Analysis at NC State"
+title: "WolfWebs"
 ---
+## Social Network Analysis at NC State
 
-## Faculty Affiliates
+# Faculty Affiliates
 
 [Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/)
 Professor of English (Linguistics), NC State
