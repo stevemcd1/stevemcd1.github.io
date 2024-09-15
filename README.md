@@ -5,7 +5,7 @@
  - [Curriculum vitae](/cv.pdf)
  - [Research](/research.html)
  - [Teaching](/teaching.html)
- - [WolfWebs](https://sites.google.com/ncsu.edu/ncsuwolfwebs/home)
+ - [WolfWebs](/WolfWebs/index.html)
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
  - [Google Scholar page](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
  - [Quantitative analysis tutorials (in R)](/tutorials/index.html)
