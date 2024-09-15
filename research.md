@@ -1,3 +1,4 @@
+[About](/) | [Curriculum Vitae](/cv.pdf) | [Research](/research.md) | [Teaching](/teaching.html) | [WolfWebs](/WolfWebs/)  
 ## Research (recent examples)
 #### Technology, Organizations, and Labor Market Inequality
 1. [Organizational Perspectives on Digital Labor Market Intermediaries](https://doi.org/10.1111/soc4.13061)
