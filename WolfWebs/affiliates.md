@@ -24,7 +24,7 @@ Assistant Professor of Education (Learning, Design, and Technology), NC State
 Assistant Professor of Sociology, NC State
 
 [Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
-Assistant Professor of Sociology, MNSU-Mankato
+Assistant Professor of Sociology, Minnesota State - Mankato
 
 ## Postdoctoral Affiliates 
 [Kevin Kiley](https://chass.ncsu.edu/people/kkiley/)
@@ -34,8 +34,8 @@ Postdoctoral Fellow, Sociology, NC State
 Postdoctoral Fellow, Data Science Academy, NC State
 
 ## Student Affiliates
- - John Daniel, Sociology, NC State
- - Adam Goldfarb, Sociology, NC State
- - Daulton Selke, Socio-linguistics, NC State
- - Alex Yan, Sociology, Yale University
+ - [John Daniel](https://chass.ncsu.edu/people/jwdanie3/), Sociology, NC State
+ - [Adam Goldfarb](https://chass.ncsu.edu/people/ajgoldfa/), Sociology, NC State
+ - [Daulton Selke](https://chass.ncsu.edu/people/djselke/), Socio-linguistics, NC State
+ - Alex Yan, Sociology, Yale 
  - Jingyi Zuo, Sociology, NC State
