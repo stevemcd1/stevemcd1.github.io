@@ -14,7 +14,7 @@ Spring 2025 Speaker Series - TBD
 ### Previous Events
 
 #### April 19, 2024
-Scott Duxbury
+Scott Duxbury  </n>
 Associate Professor of Sociology
 University of North Carolina at Chapel Hill
 "A General Framework for Micro Macro Analysis in Social Networks"
