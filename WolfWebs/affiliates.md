@@ -4,6 +4,8 @@ title: "WolfWebs"
 ---
 ## Social Network Analysis at NC State
 
+[About](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Research](/WolfWebs/research.html) | [Coursework](/WolfWebs/coursework.html) | [Events](/WolfWebs/events.html)
+
 ### Faculty Affiliates
 
 [Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/)
