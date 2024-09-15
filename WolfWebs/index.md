@@ -8,4 +8,4 @@ WolfWebs is an interdisciplinary community of scholars at (or linked to) North C
 
 See more information below about WolfWebs. If you would like to join WolfWebs or become part of our email list, please email steve_mcdonald@ncsu.edu. 
 
-[Affiliates](/WolfWebs/affiliates.html) | [Research](/WolfWebs/research.html) | [Coursework](/WolfWebs/coursework.html)) | [Events](/WolfWebs/events.html)
+[Affiliates](/WolfWebs/affiliates.html) | [Research](/WolfWebs/research.html) | [Coursework](/WolfWebs/coursework.html) | [Events](/WolfWebs/events.html)
