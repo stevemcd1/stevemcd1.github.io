@@ -5,7 +5,7 @@ subtitle: "Events"
 ---
 ## Social Network Analysis at NC State
 
-[About](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
+[WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
 ### Upcoming Events
 Spring 2025 Speaker Series - TBD
