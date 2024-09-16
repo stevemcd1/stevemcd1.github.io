@@ -17,8 +17,8 @@ Professor of Sociology, NC State
 [Branda Nowell](https://chass.ncsu.edu/people/blnowell/)
 Professor of Public Administration, NC State
 
-[Daniela (Ela) Castellanos](https://ced.ncsu.edu/people/dcastel2/)
-Assistant Professor of Education (Learning, Design, and Technology), NC State
+[Daniela (Ela) Castellanos-Reyes](https://ced.ncsu.edu/people/dcastel2/)
+Assistant Professor of Education, NC State
 
 [Andrew Davis](https://chass.ncsu.edu/people/apdavis5/)
 Assistant Professor of Sociology, NC State
