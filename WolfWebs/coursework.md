@@ -6,8 +6,12 @@ title: "WolfWebs"
 
 [WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
-### Coursework
+### Courses
 
- - DSC 295: Introduction to Social Network Analysis
- - ECI 589: Social Network Analysis in Education
- - SOC 708: Social Network Analysis
+ - DSC 295: Introduction to Social Network Analysis (McDonald & Leppard)
+ - ECI 589: Social Network Analysis in Education (Castellanos-Reyes)
+ - SOC 708: Social Network Analysis (McDonald & Davis)
+
+### Workshops
+
+ - Peer Scholars: A Brief Introduction to Social Network Analysis and its Applications (Leppard & Goldfarb)
