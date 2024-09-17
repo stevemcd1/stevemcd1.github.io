@@ -2,9 +2,10 @@
 layout: ww
 title: "WolfWebs"
 ---
-## Social Network Analysis at NC State
 
 [WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
+
+## Social Network Analysis at NC State
 
 ### Courses
 
