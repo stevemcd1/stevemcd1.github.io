@@ -1,4 +1,4 @@
-[About](https://stevemcd1.github.io/) | [Curriculum Vitae](/cv.pdf) | [Research](/research.md) | [Teaching](/teaching.html) | [WolfWebs](/WolfWebs/) 
+[About](https://stevemcd1.github.io/) | [Curriculum Vitae](/cv.pdf) | [Research](/research.md) | [Teaching](/teaching.html) | [Tutorials](/tutorials/) | [WolfWebs](/WolfWebs/) 
 ## Teaching
 #### Substantive
 - SOC/ANT 261 - Technology in Society and Culture
