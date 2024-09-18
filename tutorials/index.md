@@ -4,7 +4,7 @@ title: "Tutorials"
 
 ---
 <title>{{ page.title }} | {{ site.title }}</title>
-
+[About](https://stevemcd1.github.io/) | [Curriculum Vitae](https://stevemcd1.github.io/cv.pdf) | [Research](https://stevemcd1.github.io/research.html) | [Teaching](https://stevemcd1.github.io/teaching.html) | [Tutorials](https://stevemcd1.github.io/tutorials/) | [WolfWebs](https://stevemcd1.github.io/WolfWebs/) 
 ## Tutorials: Quantitative Analysis in R
 
 1. [Intro to R](/intro_to_R.html)
