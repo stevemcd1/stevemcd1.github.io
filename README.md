@@ -13,6 +13,6 @@
 
  ---
 
- I study social networks and social capital in labor markets, in organizations, and across work careers. I am also interested in how the internet and platform technologies may exacerbate or ameliorate inequalities associated with social networks and social capital.  
+ I study social networks and social capital in labor markets, in organizations, and across work careers. I also examine how the internet and platform technologies may exacerbate or ameliorate inequalities associated with social networks and social capital.  
 
  ---
