@@ -9,11 +9,14 @@ title: "WolfWebs"
 
 ### Faculty Affiliates
 
-[Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/)
-Professor of English (Linguistics), NC State
-
 [Steve McDonald](https://chass.ncsu.edu/people/sjmcdona/)
 Professor of Sociology, NC State
+
+[Andrew Davis](https://chass.ncsu.edu/people/apdavis5/)
+Assistant Professor of Sociology, NC State
+
+[Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/)
+Professor of English (Linguistics), NC State
 
 [Branda Nowell](https://chass.ncsu.edu/people/blnowell/)
 Professor of Public Administration, NC State
@@ -21,8 +24,8 @@ Professor of Public Administration, NC State
 [Daniela (Ela) Castellanos-Reyes](https://ced.ncsu.edu/people/dcastel2/)
 Assistant Professor of Education, NC State
 
-[Andrew Davis](https://chass.ncsu.edu/people/apdavis5/)
-Assistant Professor of Sociology, NC State
+[Shawn Mankad](https://poole.ncsu.edu/people/shawn-mankad/)
+Associate Professor of Analytics (Management), NC State
 
 [Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
 Assistant Professor of Sociology, Minnesota State - Mankato
