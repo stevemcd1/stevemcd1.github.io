@@ -10,11 +10,11 @@ subtitle: "Events"
 ### Upcoming Events
 #### A Brief Introduction to Social Network Analysis and Its Applications
 Two-part workshop: 
-Oct 25 & Nov 1
-12:00pm to 1:30pm
-Hill Library
-South Learning Lab 3430
-[Register here](https://www.lib.ncsu.edu/events/series/peer-scholars)
+ - Oct 25 & Nov 1
+ - 12:00pm to 1:30pm
+ - Hill Library
+ - South Learning Lab 3430
+ - [Register here](https://www.lib.ncsu.edu/events/series/peer-scholars)
 
 #### Spring 2025 Speaker Series - TBD
 
