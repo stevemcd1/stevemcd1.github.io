@@ -8,7 +8,7 @@ subtitle: "Events"
 [WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
 ### Spring 2025 Speaker Series
-#### December 4, 2024, 3-4p
+#### December 4, 2024, 2:30-4p
 Yang-chih Fu, "Contact Networks: A Bottom-up Perspective of Social Structures"
  - Distinguished Research Fellow, Institute of Sociology, Academia Sinica, Taiwan.
 
