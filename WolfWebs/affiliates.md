@@ -41,6 +41,7 @@ Postdoctoral Fellow, Data Science Academy, NC State
  - Stephen Black, Linguistics, NC State
  - [John Daniel](https://chass.ncsu.edu/people/jwdanie3/), Sociology, NC State
  - [Adam Goldfarb](https://chass.ncsu.edu/people/ajgoldfa/), Sociology, NC State
+ - [Jeremy James](https://chass.ncsu.edu/people/jmjames5/), Sociology, NC State
  - [Daulton Selke](https://chass.ncsu.edu/people/djselke/), Socio-linguistics, NC State
  - [Alex Yan](https://sociology.yale.edu/people/alex-yan), Sociology, Yale 
  - Jingyi Zuo, Sociology, NC State
