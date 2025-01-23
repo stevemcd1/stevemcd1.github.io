@@ -9,6 +9,18 @@ subtitle: "Events"
 
 ### Spring 2025 Speaker Series
 
+#### Tom R. Leppard, "Givers, Takers, and Reciprocators: Reimagining Reciprocity in Networks"
+ - Postdoctoral Fellow, Data Science & AI Academy, North Carolina State University
+ - January 21, 2025, 3:00-4:30p, room 129 in the 1911 building
+
+#### Joe Quinn, Title TBD
+ - Assistant Professor, Department of Sociology, University of South Carolina
+ - March 28, 2025, 3:00-4:30p, room 129 in the 1911 building
+
+#### Peter Ore, Title TBD
+ - Assistant Professor, Department of Sociology, Queens College in the CUNY
+ - April 14, 2025, 3:00-4:30p, room 129 in the 1911 building
+
 #### Yang-chih Fu, "Contact Networks: A Bottom-up Perspective of Social Structures"
  - Distinguished Research Fellow, Institute of Sociology, Academia Sinica, Taiwan.
  - December 4, 2024, 2:30-4p, room 129 in the 1911 building
