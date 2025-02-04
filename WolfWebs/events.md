@@ -9,9 +9,9 @@ subtitle: "Events"
 
 ### Spring 2025 Speaker Series
 
-#### Tom R. Leppard, "Givers, Takers, and Reciprocators: Reimagining Reciprocity in Networks"
+#### Tom R. Leppard, "Givers, Takers, and Reciprocators: Reimagining Individuals and Groups in UK Grime Music"
  - Postdoctoral Fellow, Data Science & AI Academy, North Carolina State University
- - January 21, 2025, 3:00-4:30p, room 129 in the 1911 building
+ - February 21, 2025, 3:00-4:30p, room 129 in the 1911 building
 
 #### Joe Quinn, Title TBD
  - Assistant Professor, Department of Sociology, University of South Carolina
