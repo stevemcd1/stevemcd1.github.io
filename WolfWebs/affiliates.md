@@ -27,6 +27,9 @@ Assistant Professor of Education, NC State
 [Shawn Mankad](https://poole.ncsu.edu/people/shawn-mankad/)
 Associate Professor of Analytics (Management), NC State
 
+[Aditi Mallavarapu](https://www.csc.ncsu.edu/people/amallav)
+Assistant Professor of Computer Science, NC State
+
 [Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
 Assistant Professor of Sociology, Minnesota State - Mankato
 
@@ -35,7 +38,7 @@ Assistant Professor of Sociology, Minnesota State - Mankato
 Postdoctoral Fellow, Sociology, NC State
 
 [Tom Leppard](https://tom-r-leppard.github.io/)
-Postdoctoral Fellow, Data Science Academy, NC State
+Postdoctoral Fellow, Data Science & AI Academy, NC State
 
 ## Graduate Student Affiliates
  - Stephen Black, Linguistics, NC State
