@@ -21,6 +21,6 @@ title: "Tutorials"
 12. [Dynamic Network Visualization](/tutorials/dynamic_viz.html)
 13. [Network Simulations](/tutorials/netsim.html)
 14. [Exponential Random Graph Models](/ergm.html)
-15. [Ego Network Setup](/ego-network-setup.html)
+15. [Ego Network Setup](/egonet_setup.html)
 16. [Comparing Text Documents](/comparing_docs.html)
 17. [Scraping GitHub Data](/scraping_example.html)
