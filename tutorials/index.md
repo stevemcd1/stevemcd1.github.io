@@ -22,5 +22,6 @@ title: "Tutorials"
 13. [Network Simulations](/tutorials/netsim.html)
 14. [Exponential Random Graph Models](/ergm.html)
 15. [Ego Network Setup](/egonet_setup.html)
-16. [Comparing Text Documents](/comparing_docs.html)
-17. [Scraping GitHub Data](/scraping_example.html)
+16. [Ego Network Analysis](/egotnet_analysis.html)
+17. [Comparing Text Documents](/comparing_docs.html)
+18. [Scraping GitHub Data](/scraping_example.html)
