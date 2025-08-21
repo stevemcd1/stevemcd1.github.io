@@ -23,8 +23,9 @@ title: "Tutorials"
 14. [Exponential Random Graph Models](/ergm.html)
 15. [Ego Network Setup](/egonet_setup.html)
 16. [Ego Network Analysis](/egonet_analysis.html)
-17. [Comparing Text Documents](/comparing_docs.html)
-18. [Scraping GitHub Data](/scraping_example.html)
-19. [Topic Modeling: Edgar Allan Poe books](/poe_lda.html)
+17. [Intro to Data Viz in R](/intro_dataviz.html)
+18. [Comparing Text Documents](/comparing_docs.html)
+19. [Scraping GitHub Data](/scraping_example.html)
+20. [Topic Modeling: Edgar Allan Poe books](/poe_lda.html)
 
 
