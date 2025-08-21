@@ -28,4 +28,3 @@ title: "Tutorials"
 19. [Scraping GitHub Data](/scraping_example.html)
 20. [Topic Modeling: Edgar Allan Poe books](/poe_lda.html)
 
-
