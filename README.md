@@ -1,4 +1,4 @@
-### Professor of Sociology, North Carolina State University
+### Alumni Association Distinguished Graduate Professor of Sociology, North Carolina State University
 
 <img align="left" src="steve_blowing_rock_smC.jpg">
  
