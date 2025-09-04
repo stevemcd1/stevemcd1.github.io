@@ -44,7 +44,6 @@ Postdoctoral Fellow, Data Science & AI Academy, NC State
  - Shannon Jenkins, Liberal Studies, NC State
  - [Daulton Selke](https://chass.ncsu.edu/people/djselke/), Socio-linguistics, NC State
  - Gagan Sherrill, School Psychology, NC State
- - [Alex Yan](https://sociology.yale.edu/people/alex-yan), Sociology, Yale 
  - Jingyi Zuo, Sociology, NC State
 
 ## External Affiliates
