@@ -50,5 +50,6 @@ Postdoctoral Fellow, Data Science & AI Academy, NC State
 ## External Affiliates
 [Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
 Assistant Professor of Sociology, Minnesota State - Mankato
+
 [Alex Yan](https://sociology.yale.edu/people/alex-yan)
 PhD student, Sociology, Yale 
