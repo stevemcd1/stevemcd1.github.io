@@ -33,8 +33,6 @@ Associate Professor of Analytics (Management), NC State
 [Aditi Mallavarapu](https://www.csc.ncsu.edu/people/amallav)
 Assistant Professor of Computer Science, NC State
 
-[Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
-Assistant Professor of Sociology, Minnesota State - Mankato
 
 ## Postdoctoral Affiliates 
 [Tom Leppard](https://tom-r-leppard.github.io/)
@@ -43,7 +41,14 @@ Postdoctoral Fellow, Data Science & AI Academy, NC State
 ## Graduate Student Affiliates
  - Stephen Black, Linguistics, NC State
  - [Adam Goldfarb](https://chass.ncsu.edu/people/ajgoldfa/), Sociology, NC State
+ - Shannon Jenkins, Liberal Studies, NC State
  - [Daulton Selke](https://chass.ncsu.edu/people/djselke/), Socio-linguistics, NC State
  - Gagan Sherrill, School Psychology, NC State
  - [Alex Yan](https://sociology.yale.edu/people/alex-yan), Sociology, Yale 
  - Jingyi Zuo, Sociology, NC State
+
+## External Affiliates
+[Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
+Assistant Professor of Sociology, Minnesota State - Mankato
+[Alex Yan](https://sociology.yale.edu/people/alex-yan)
+PhD student, Sociology, Yale 
