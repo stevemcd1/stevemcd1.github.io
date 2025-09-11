@@ -42,8 +42,9 @@ Postdoctoral Fellow, Data Science & AI Academy, NC State
  - Stephen Black, Linguistics, NC State
  - [Adam Goldfarb](https://chass.ncsu.edu/people/ajgoldfa/), Sociology, NC State
  - Shannon Jenkins, Liberal Studies, NC State
- - [Daulton Selke](https://chass.ncsu.edu/people/djselke/), Socio-linguistics, NC State
+ - [Daulton Selke](https://selked.github.io/), Socio-linguistics, NC State
  - Gagan Sherrill, School Psychology, NC State
+ - [Aliyah Smith](https://chass.ncsu.edu/people/asmith37/), Sociology, NC State
  - Jingyi Zuo, Sociology, NC State
 
 ## External Affiliates
