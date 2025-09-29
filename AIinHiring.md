@@ -4,7 +4,7 @@
   <img src="AI in Hiring Technology.jpg" width="75%">
 </p>
 
-*AI in Hiring: Promoting Student Success in the AI Job Market* is a university initiative funded by the NC State University Foundation, aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness. 
+*AI in Hiring: Promoting Student Success in the AI Job Market* is funded by the NC State University Foundation, aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness. 
 
 ### Events
 TBD
