@@ -51,5 +51,8 @@ Postdoctoral Fellow, Data Science & AI Academy, NC State
 [Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
 Assistant Professor of Sociology, Minnesota State - Mankato
 
+[Jenna Wertsching](https://sociology.unc.edu/people-page/jenna-wertsching/)
+PhD student, Sociology, University of North Carolina - Chapel Hill
+
 [Alex Yan](https://sociology.yale.edu/people/alex-yan)
 PhD student, Sociology, Yale 
