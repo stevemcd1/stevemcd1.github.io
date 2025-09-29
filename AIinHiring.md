@@ -2,6 +2,8 @@
 <h2 align="center">Promoting Student Success in the AI Job Market</h2>
 <p align="center">
   <img src="AI in Hiring Technology.jpg" width="75%">
+  <br>
+  <em><small>Note: Image generated via DALL-E, 9/29/25.</small></em>
 </p>
 
 *AI in Hiring: Promoting Student Success in the AI Job Market* is funded by the NC State University Foundation, aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness. 
