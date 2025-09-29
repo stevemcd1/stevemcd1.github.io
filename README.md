@@ -9,7 +9,7 @@
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
  - [Google Scholar page](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
  - [Tutorials: quant analysis in R](/tutorials/index.html)
- - [Handbook on Inequality and Social Capital](https://www.e-elgar.com/shop/usd/handbook-on-inequality-and-social-capital-9781802202366.html)  
+ - [AI in Hiring](https://stevemcd1.github.io/AIinHiring.html)  
 
  ---
 
