@@ -2,12 +2,23 @@
 layout: ww
 title: "WolfWebs"
 ---
-## Social Network Analysis at NC State
+<h1 align="center">AI in Hiring</h1>
+<h2 align="center">Promoting Student Success in the AI Job Market</h2>
+<p align="center">
+  <img src="AI in Hiring Technology.jpg" width="75%">
+  <br>
+  <em><small>Note: Image generated via DALL-E, 9/29/25.</small></em>
+</p>
 
-[WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
+*AI in Hiring: Promoting Student Success in the AI Job Market*, funded by the NC State University Foundation, is aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness. 
 
-<img align="left" src="logo_small.png">
+### Events
+TBD
 
-WolfWebs is an interdisciplinary community of scholars at (or linked to) North Carolina State University who are devoted to the study and teaching of social network analysis (SNA). We engage in an annual speaker series, teach undergraduate and graduate coursework, and participate in informal discussions about SNA. 
-
-If you would like to join WolfWebs or become part of our email list, please email steve_mcdonald (at) ncsu (dot) edu. 
+### Coordinating Committee
+- Steve McDonald, Alumni Association Distinguished Graduate Professor of Sociology
+- Huiling Ding, University Faculty Scholar and Professor of English
+- Kelly Laraway, Director of Employer Relations, Career Development Center
+- Bill Rand, McLaughlin Distinguished Professor of Marketing and Analytics
+- Munindar Singh, SAS Institute Distinguished Professor of Computer Science
+- Kevin Lee, Intel Social Justice and Racial Equity Professor of Law (NC Central University)
