@@ -9,7 +9,7 @@
  - [NCSU faculty page](https://chass.ncsu.edu/people/sjmcdona/)
  - [Google Scholar page](https://scholar.google.com/citations?user=x5igFpEAAAAJ&hl=en&oi=ao)
  - [Tutorials: quant analysis in R](/tutorials/index.html)
- - [AI in Hiring](https://stevemcd1.github.io/AIinHiring.html)  
+ - [AI in Hiring](https://stevemcd1.github.io/AIinHiring/index.html)  
 
  ---
 
