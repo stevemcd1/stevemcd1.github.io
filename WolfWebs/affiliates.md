@@ -51,6 +51,9 @@ Postdoctoral Fellow, Data Science & AI Academy, NC State
 [Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
 Assistant Professor of Sociology, Minnesota State - Mankato
 
+[Meg Palmer](https://sociology.unc.edu/people-page/margaret-palmer/)
+PhD student, Sociology, University of North Carolina - Chapel Hill
+
 [Jenna Wertsching](https://sociology.unc.edu/people-page/jenna-wertsching/)
 PhD student, Sociology, University of North Carolina - Chapel Hill
 
