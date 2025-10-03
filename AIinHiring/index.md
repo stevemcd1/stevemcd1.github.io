@@ -21,3 +21,4 @@ TBD
 - Bill Rand, McLaughlin Distinguished Professor of Marketing and Analytics
 - Munindar Singh, SAS Institute Distinguished Professor of Computer Science
 - Kevin Lee, Intel Social Justice and Racial Equity Professor of Law (NC Central University)
+- Britney Schreiber, PhD Student in Sociology
