@@ -7,28 +7,36 @@ subtitle: "Events"
 
 [WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
-### Spring 2025 Speaker Series
+### Fall 2025/Spring 2026 Speaker Series
+#### Cassie McMillan, "Tribulation and Triumph in Romantic Rivalries: How Adolescent Love Triangles Inform Relationships of Dislike and Future Romance"
+ - Assistant Professor, Department of Sociology and Anthropology, Northeastern University
+ - November 20, 2025, 3-4:30p in room 129 of the 1911 building
 
-#### Joe Quinn, “Foraging on Graphs: Adding Agency to Models of Contagion in Networks”
- - Assistant Professor, Department of Sociology, University of South Carolina
- - March 28, 2025, 3:00-4:30p, room 129 in the 1911 building
- - Networks shape how we acquire information and adopt behaviors. The initial wave of empirical network diffusion scholarship shows that some structures spread certain objects more effectively, depending on whether the object is “simple” (spread by mere exposure) or “complex” (spread by social influence). While simple and complex contagion models highlight the importance of social structures, they reduce actors to implausible cultural dupes that inevitably adopt objects once some sufficient number of neighbors have already done so. But unlike diseases, bits of social information and new behaviors are often actively sought out in ways that are patterned by actors’ social networks. We argue that current network contagion frameworks fail to capture this deliberate and strategic behavior. Because individuals proactively seek and adopt cultural objects that are beneficial or otherwise interesting to them, externally valid models of network contagion must account for these foraging behaviors and their capacity to generate opportunities for active exposure and deliberate learning. We develop this theoretical argument via agent-based models that integrate insights about how network structures influence diffusion with findings on information foraging about how people modify their strategies or environments to obtain valuable information or acquire useful cultural tools. We then compare hypothetical adoption rates in Erdős-Rényi and Small World networks (structures of interest in current contagion scholarship) under conditions that include, or exclude, active foraging alongside passive influence parameters. Our preliminary results contradict conventional wisdom: less clustered Erdős-Rényi graphs can facilitate more rapid and complete adoption of complex cultural objects than clustered Small World graphs when agents forage beyond first-order ties (explore) and resample information (exploit). Next steps involve using our hybrid foraging-contagion model to predict how software developers adopt new open-source libraries on GitHub.
+#### Neha Gondal, Title TBD
+ - Associate Professor, Department of Sociology & Faculty of Computing & Data Sciences, Boston University
+ - February 6, 2026, 3-4:30p in room 129 of the 1911 building
+
+#### Dustin S. Stoltz, Title TBD
+ - Assistant Professor, Sociology and Cognitive Science, Lehigh University
+ - February 13, 2026, 3-4:30p in room 129 of the 1911 building
+
+### Previous Events
+#### Peter Ore, "Toward a Social Metrology: Reconciling Quantitative and Interpretive Approaches in the Study of Data"
+ - Assistant Professor, Department of Sociology, Queens College in the CUNY
+ - April 14, 2025
 
 #### Tom R. Leppard, "Givers, Takers, and Reciprocators: Reimagining Individuals and Groups in UK Grime Music"
  - Postdoctoral Fellow, Data Science & AI Academy, North Carolina State University
- - April 4, 2025, 3:00-4:30p, room 129 in the 1911 building
- - Traditional network measures like centrality and brokerage primarily focus on an individual’s position within a network, but they often overlook how that individual is integrated into the broader group. In this talk, I’ll challenge this perspective by reimagining social network structure. Using the familiar concept of reciprocity, I’ll examine how individuals signal their participation in a group and receive validation from it. Drawing on 22 years of collaboration data collected from 122 UK Grime artists, I propose a new way to think about reciprocity as a measure of individual-to-group (artist-to-genre) integration. Grime—a London-based rap genre that emerged from the reggae scene in the early 2000s—has a complex and fluid social structure, driven by both innovative collaboration and intense competition. I argue that this approach offers a deeper understanding of how people contribute to the formation of the Grime genre, shifting the focus from mere connections to the quality of an individual’s integration within the genre’s social and cultural fabric.
+ - April 4, 2025
 
-#### Peter Ore, "Toward a Social Metrology: Reconciling Quantitative and Interpretive Approaches in the Study of Data"
- - Assistant Professor, Department of Sociology, Queens College in the CUNY
- - April 14, 2025, 3:00-4:30p, room 129 in the 1911 building
- - Increasing numbers of social scientists are now studying "powerful numbers" (Bouk, Ackerman, and boyd 2022). This subfield's contributions have been centered around the interpretation of /numerical data as text/, highlighting dimensions of meaning not accessible through statistical reduction. However, fully realizing this interpretive approach to data implies a need for an ethnomethodology of data, or study of the concrete practice of data production and analysis. This binds the literature in a paradox. Scholars of quantitative reason adopt methodological commitments that imply they should become practitioners of some form of quantitative reasoning, but also prevent them from doing so. In this talk, I show that the quantitative study of quantitative reason is methodologically consistent with interpretive social science. I do so by demonstrating three approaches to meta-quantitative reasoning I label /forensic/, /actuarial/, and /constructivist/. I apply each approach to important moments in the history of air pollution data. In the forensic approach, I replicate and extend computations found in experiments meant to standardize federal "dust counting" instruments in the interwar period. This approach interprets data as a product of social interaction. I demonstrate the actuarial approach by applying anomaly detection algorithms to the United States Air Quality System, then mapping the distribution of anomalies onto the political geography of the United States. This approach interprets data as eventful. I use the constructivist approach to examine the differential mobility of administrative categories used in air pollution data over time. This last approach interprets data as an institutional device. As Duncan (1984: 34) puts it, "all measurement ... is social measurement"; quantification stems from a fundamentally social need for coordination across space and time. As such, quantification cannot be understood unless distant readings are joined with immanent computations. Building a social metrology requires overcoming the methodological antinomies of the 20th century
+#### Joe Quinn, “Foraging on Graphs: Adding Agency to Models of Contagion in Networks”
+ - Assistant Professor, Department of Sociology, University of South Carolina
+ - March 28, 2025
 
 #### Yang-chih Fu, "Contact Networks: A Bottom-up Perspective of Social Structures"
  - Distinguished Research Fellow, Institute of Sociology, Academia Sinica, Taiwan.
  - December 4, 2024, 2:30-4p, room 129 in the 1911 building
 
-### Previous Events
 #### A Brief Introduction to Social Network Analysis and Its Applications
  - Tom Leppard and Adam Goldfarb, two-part workshop
  - Oct 25 & Nov 1, 2024
