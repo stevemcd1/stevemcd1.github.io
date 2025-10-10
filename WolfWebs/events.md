@@ -34,6 +34,10 @@ subtitle: "Events"
  - Assistant Professor, Department of Sociology, University of South Carolina
  - March 28, 2025
 
+#### Christine Mair, “Successfully” Aging “Alone?”: Unequal Global Opportunities and Rising Risks in Family-Based Models of Care Cross-Nationally"
+ - Associate Professor of Sociology, University of Maryland, Baltimore County
+ - March 21, 2025
+
 #### Yang-chih Fu, "Contact Networks: A Bottom-up Perspective of Social Structures"
  - Distinguished Research Fellow, Institute of Sociology, Academia Sinica, Taiwan.
  - December 4, 2024, 2:30-4p, room 129 in the 1911 building
