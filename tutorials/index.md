@@ -27,4 +27,5 @@ title: "Tutorials"
 18. [Comparing Text Documents](/comparing_docs.html)
 19. [Scraping GitHub Data](/scraping_example.html)
 20. [Topic Modeling: Edgar Allan Poe books](/poe_lda.html)
+21. [Concept Distance with Word Embeddings](/concept_distance.html)
 
