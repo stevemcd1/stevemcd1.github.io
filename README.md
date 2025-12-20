@@ -1,6 +1,6 @@
 ### Alumni Association Distinguished Graduate Professor of Sociology, North Carolina State University
 
-<img align="left" src="steve_mcd_durm1_smsq.jpg">
+<img align="left" src="steve_mcd_durm1_smsq2.jpg">
  
  - [Curriculum vitae](/cv.pdf)
  - [Research](/research.html)
