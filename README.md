@@ -1,6 +1,6 @@
 ### Alumni Association Distinguished Graduate Professor of Sociology, North Carolina State University
 
-<img align="left" src="steve_blowing_rock_smC.jpg">
+<img align="left" src="steve_mcd_durm1_sq.jpg">
  
  - [Curriculum vitae](/cv.pdf)
  - [Research](/research.html)
