@@ -7,21 +7,21 @@ subtitle: "Events"
 
 [WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
-### Fall 2025/Spring 2026 Speaker Series
-#### Cassie McMillan, "Tribulation and Triumph in Romantic Rivalries: How Adolescent Love Triangles Inform Relationships of Dislike and Future Romance"
- - Assistant Professor, Department of Sociology and Anthropology, Northeastern University
- - November 20, 2025, 3-4:30p in room 129 of the 1911 building
- - Relationships defined by dislike and animosity are common in the social worlds of adolescents. To enhance our understanding of how, with whom, and why these negative social ties develop, the current project focuses on adolescents’ romantic rivalries, or instances where two or more youth are romantically attracted to the same classmate. We adopt a social network approach to study relational patterns of dislike, dating, and “crushes” among 1,919 Dutch adolescents who participated in longitudinal panels of the PEAR study. Results indicate that respondents disliked their romantic rivals at higher rates than expected by chance. Youth with crushes on partnered classmates reported the greatest probabilities of disliking their love interests’ dating partners, while young people who were currently dating disliked their partners’ ex-partners at high rates. Further analyses consider whether disliking romantic rivals is associated with future success in the adolescent dating market. Within certain configurations, disliking romantic rivals increases one’s likelihood of dating the common romantic interest before the end of the school year. Although adolescents can gain status rewards by strategically engaging in negative social relationships, these conflictual relationships culminate in cycles of dislike that predate, outlast, and transcend the romantic dyad. 
-
-#### Neha Gondal, Title TBD
+### Spring 2026 Speaker Series
+#### Neha Gondal, "Rulenet: Mapping Relationships between Cultural and other Variables  using Association-Rules and Network Graphs"
  - Associate Professor, Department of Sociology & Faculty of Computing & Data Sciences, Boston University
  - February 6, 2026, 3-4:30p in room 129 of the 1911 building
+ - Sociologists have persuasively argued that cultural meaning can be interpreted by analyzing the systems of relations that measure the so-called ‘going together’ of cultural materials. Research investigating cultural tastes and preferences has used this approach to interpret consumption patterns as relational systems using a variety of techniques including multidimensional scaling, two-mode network analysis, and variable correlation networks. I contribute to this growing set of tools by describing and demonstrating the use of a datamining technique with scant history of use within sociology, called ‘association-rules.’ The key contribution of this technique is that it generates directed relationships between variables (e.g., preference for opera --> preference for ballet), which has several advantages over existing techniques that conceptualize relationality in terms of mutual presence. I show how such ‘one-sided’ clustering (A goes with B, but B may not go together with A) can be represented and analyzed as network graphs, an approach I call ‘Rulenet.’ In this talk, I will discuss how the proposed technique can provide novel insights into the organizations of tastes and outline extensions of the approach to other sociologically relevant domains.
 
 #### Dustin S. Stoltz, Title TBD
  - Assistant Professor, Sociology and Cognitive Science, Lehigh University
  - February 13, 2026, 3-4:30p in room 129 of the 1911 building
 
 ### Previous Events
+#### Cassie McMillan, "Tribulation and Triumph in Romantic Rivalries: How Adolescent Love Triangles Inform Relationships of Dislike and Future Romance"
+ - Assistant Professor, Department of Sociology and Anthropology, Northeastern University
+ - November 20, 2025
+
 #### Peter Ore, "Toward a Social Metrology: Reconciling Quantitative and Interpretive Approaches in the Study of Data"
  - Assistant Professor, Department of Sociology, Queens College in the CUNY
  - April 14, 2025
