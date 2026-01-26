@@ -46,6 +46,7 @@ Postdoctoral Fellow, Data Science & AI Academy, NC State
  - [Daulton Selke](https://selked.github.io/), Socio-linguistics, NC State
  - Gagan Shergill, School Psychology, NC State
  - [Aliyah Smith](https://chass.ncsu.edu/people/asmith37/), Sociology, NC State
+ - Jen Yip, Public Administration, NC State
  - [Jingyi Zuo](https://chass.ncsu.edu/people/jzuo4/), Sociology, NC State
 
 ## External Affiliates
