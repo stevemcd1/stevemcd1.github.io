@@ -16,6 +16,7 @@ title: "WolfWebs"
 ### Workshops
 
  - Peer Scholars: A Brief Introduction to Social Network Analysis and its Applications (Leppard & Goldfarb)
+ - Social Network Analysis: Building Web-Based Applications for Experiential Learning (McDonald)
 
 ### Textbook (under construction)
 
