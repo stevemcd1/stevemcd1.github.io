@@ -46,6 +46,7 @@ Postdoctoral Fellow, Data Science & AI Academy
  - [Britney Schreiber](https://chass.ncsu.edu/people/bschrei/), Sociology
  - [Daulton Selke](https://selked.github.io/), Socio-linguistics
  - Gagan Shergill, School Psychology
+ - Gaurav Sheth, Computer Science
  - [Aliyah Smith](https://chass.ncsu.edu/people/asmith37/), Sociology
  - Jen Yip, Public Administration
  - [Jingyi Zuo](https://chass.ncsu.edu/people/jzuo4/), Sociology
