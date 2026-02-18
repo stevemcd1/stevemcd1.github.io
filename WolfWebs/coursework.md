@@ -16,3 +16,7 @@ title: "WolfWebs"
 ### Workshops
 
  - Peer Scholars: A Brief Introduction to Social Network Analysis and its Applications (Leppard & Goldfarb)
+
+### Textbook (under construction)
+
+ - [Introduction to Social Network Analysis](https://stevemcd1.github.io/introSNA/)
