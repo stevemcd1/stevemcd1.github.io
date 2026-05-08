@@ -9,9 +9,8 @@ title: "WolfWebs"
 
 ### Courses
 
- - DSC 295: Introduction to Social Network Analysis (McDonald & Leppard)
- - ECI 589: Social Network Analysis in Education (Castellanos-Reyes)
- - SOC 708: Social Network Analysis (McDonald & Davis)
+ - DSC 295: Introduction to Social Network Analysis (McDonald), Fall 2026, Mondays 1:55-2:45
+ - SOC 708: Social Network Analysis (Davis), Fall 2026, Mondays 3-5:45p
 
 ### Workshops
 
