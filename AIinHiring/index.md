@@ -12,12 +12,12 @@ title: "AI in Hiring"
 *AI in Hiring: Promoting Student Success in the AI Job Market*, funded by the NC State University Foundation, is aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness. 
 
 ### Coordinating Committee
-- Steve McDonald, Alumni Association Distinguished Graduate Professor of Sociology
-- Huiling Ding, University Faculty Scholar and Professor of English
-- Kelly Laraway, Director of Employer Relations, Career Development Center
-- Bill Rand, McLaughlin Distinguished Professor of Marketing and Analytics
-- Munindar Singh, SAS Institute Distinguished Professor of Computer Science
-- Kevin Lee, Intel Social Justice and Racial Equity Professor of Law (NC Central University)
+- [Steve McDonald](https://stevemcd1.github.io/), Alumni Association Distinguished Graduate Professor of Sociology
+- [Huiling Ding](https://huilingding.wordpress.ncsu.edu/), University Faculty Scholar and Professor of English
+- [Kelly Laraway](https://careers.dasa.ncsu.edu/people/kelly-laraway/), Director of Employer Relations, Career Development Center
+- [Bill Rand](https://poole.ncsu.edu/people/wmrand/), McLaughlin Distinguished Professor of Marketing and Analytics
+- [Munindar Singh](https://csc.ncsu.edu/people/mpsingh/), SAS Institute Distinguished Professor of Computer Science
+- Kevin Lee, Legal Scholar, NC State University
 - Britney Schreiber, PhD Student in Sociology
 
 ### Activities to date
