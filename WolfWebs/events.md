@@ -3,7 +3,7 @@ layout: ww
 title: "WolfWebs"
 subtitle: "Events"
 ---
-## Social Network Analysis at NC State
+## Social Network Analysis Lab
 
 [WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
