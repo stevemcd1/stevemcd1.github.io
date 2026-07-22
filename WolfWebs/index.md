@@ -6,7 +6,7 @@ title: "WolfWebs"
 
 [WolfWebs](/WolfWebs/) | [Affiliates](/WolfWebs/affiliates.html) | [Events](/WolfWebs/events.html) | [Coursework](/WolfWebs/coursework.html) 
 
-<img align="left" src="wolfwebs_sq.png" width="350">
+<img align="left" src="wolfwebs_lc2.png">
 
 WolfWebs is an interdisciplinary community of scholars at (or linked to) North Carolina State University who are devoted to the study and teaching of social network analysis (SNA). We engage in an annual speaker series, teach undergraduate and graduate coursework, and participate in informal discussions about SNA. 
 
