@@ -33,11 +33,6 @@ Associate Professor of Analytics (Management)
 [Aditi Mallavarapu](https://www.csc.ncsu.edu/people/amallav)
 Assistant Professor of Computer Science
 
-
-## Postdoctoral Affiliates 
-[Tom Leppard](https://tom-r-leppard.github.io/)
-Postdoctoral Fellow, Data Science & AI Academy
-
 ## Graduate Student Affiliates
  - Stephen Black, Linguistics
  - [Adam Goldfarb](https://chass.ncsu.edu/people/ajgoldfa/), Sociology
@@ -52,7 +47,10 @@ Postdoctoral Fellow, Data Science & AI Academy
  - [Jingyi Zuo](https://chass.ncsu.edu/people/jzuo4/), Sociology
 
 ## External Affiliates
-[Chao Liu](https://hss.mnsu.edu/academic-programs/nonprofit-leadership/faculty-and-staff/chao-liu/)
+[Tom Leppard](https://tom-r-leppard.github.io/)
+Assistant Professor of Sociology, Florida Atlantic University
+
+[Chao Liu](https://chaoliusoc.wordpress.com/)
 Assistant Professor of Sociology, Minnesota State - Mankato
 
 [Meg Palmer](https://sociology.unc.edu/people-page/margaret-palmer/)
