@@ -4,9 +4,7 @@ title: "AI in Hiring Symposium"
 ---
 <h2 align="center">Promoting Student Success in the AI Job Market</h2>
 <p align="center">
-  <img src="AI_in_Hiring_logo2.png" width="75%">
-  <br>
-  <em><small>Note: Image generated via DALL-E, 7/22/26.</small></em>
+  <img src="AI-in-hiring-flyer2.png" width="75%">
 </p>
 
 *AI in Hiring: Promoting Student Success in the AI Job Market*, funded by the NC State University Foundation, is aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness. 
