@@ -1,6 +1,6 @@
 ---
 layout: ww
-title: "AI in Hiring Symposium"
+title: "AI in Hiring"
 ---
 <h2 align="center">AI in Hiring Symposium </h2>
 <p align="center">
