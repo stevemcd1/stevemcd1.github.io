@@ -1,6 +1,7 @@
 ---
 layout: ww
 title: "AI in Hiring"
+permalink: /AIinHiring/symposium.html
 ---
 <h2 align="center">AI in Hiring Symposium </h2>
 <p align="center">
