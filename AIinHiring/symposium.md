@@ -4,14 +4,14 @@ title: "AI in Hiring"
 ---
 <h2 align="center">AI in Hiring Symposium </h2>
 <p align="center">
-  <img src="AI-in-hiring-flyer3.png" width="100%">
+  <img src="AI-in-hiring-flyer4.png" width="100%">
 </p>
 
 *AI in Hiring Symposium*, funded by the NC State University Foundation, is aimed at synthesizing and sharing insights about the increasing use of artificial intelligence in organizational hiring practices and in workers' job search activities. The symposium will provide an opportunity to learn about these important changes from a wide variety of perspectives, including those from academic, legal, and industry experts, as well as student job seekers. 
 
 ## Event Links
- - [Register for Symposium]()
- - [Apply to Present a Poster]()
+ - [Register for Symposium](https://www.eventbrite.com/e/ai-in-hiring-symposium-tickets-1998118106043?aff=oddtdtcreator)
+ - [Apply to Present a Poster](https://forms.gle/jEex1oWjwHG22u3X6)
 
 ## Preliminary Program
  - 8:30a	Check-in
