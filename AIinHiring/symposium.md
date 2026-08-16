@@ -14,13 +14,13 @@ title: "AI in Hiring"
  - 9:00a	Welcoming remarks 
  - 9:15a	Keynote 1 - Schellmann
  - 10:00a	Q&A 
- - 10:30a	Break
+ - 10:30a	Coffee/snack break
  - 10:45a	Keynote 2 - Ajunwa
  - 11:30a	Q&A 
  - noon	  Lunch, posters, & book signing
- - 1:00p	Industry panel 
- - 2:00p	Academic panel 
- - 3:00p	Break
- - 3:15p	Student panel 
+ - 1:15p	Industry panel 
+ - 2:15p	Academic panel 
+ - 3:15p	Coffee/snack break
+ - 3:30p	Student panel 
  - 4:30p	Closing remarks 
- - 5:00p	Reception
+ 
