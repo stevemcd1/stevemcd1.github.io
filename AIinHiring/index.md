@@ -4,7 +4,7 @@ title: "AI in Hiring"
 ---
 <h2 align="center">Promoting Student Success in the AI Job Market</h2>
 <p align="center">
-  <img src="AI_in_Hiring_logo2.png" width="75%">
+  <img src="8x8.png" width="75%">
   <br>
   <em><small>Note: Image generated via DALL-E, 7/22/26.</small></em>
 </p>
