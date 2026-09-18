@@ -6,7 +6,7 @@ title: "AI in Hiring"
 <p align="center">
   <img src="8x8.png" width="75%">
   <br>
-  <em><small>Note: Image generated via DALL-E, 7/22/26.</small></em>
+  <em><small>Note: Image created by Britney Schreiber, 9/15/26.</small></em>
 </p>
 
 *AI in Hiring: Promoting Student Success in the AI Job Market*, funded by the NC State University Foundation, is aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness. 
