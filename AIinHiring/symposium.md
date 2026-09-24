@@ -14,7 +14,7 @@ title: "AI in Hiring"
 
 ## Program
 [Detailed Program](https://stevemcd1.github.io/AIinHiring/program.html)
-*At a glance...*
+<br><br>*At a glance...*
  - 8:30a	Check-in
  - 9:00a	Welcoming remarks 
  - 9:15a	Keynote 1 - Schellmann
