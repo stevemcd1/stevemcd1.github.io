@@ -20,3 +20,5 @@ Coastal AgroBusiness Seminar Room
 | **3:15 p.m.** | **Coffee and snack break** |
 | **3:30 p.m.** | **Student panel on AI in Hiring**<br>**Meriam Ali**, Electrical and Computer Engineering<br>**Sanjana Cheerla**, Computer Science<br>**Sonali Chhaya**, Business Analytics<br>**Pablo Comino**, Cybersecurity<br>**Victor Hermida**, Computer Science<br>**Ryan Laraway**, Business Analytics<br>**Krys Woodruff**, Chemical Engineering <br><br>Moderator: Kelly Laraway |
 | **4:30 p.m.** | **Closing remarks**<br>**Sarah Heckman**, Alumni Distinguished Undergraduate Professor of Computer Science and Acting Executive Director, Data Science and AI Academy, NC State University |
+
+Questions? Please email [steve_mcdonald@ncsu.edu](mailto:steve_mcdonald@ncsu.edu) 
