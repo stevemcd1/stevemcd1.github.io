@@ -11,7 +11,7 @@ Coastal AgroBusiness Seminar Room
 |---|---|
 | **8:30 a.m.** | **Check-in**<br>Coffee, tea, and breakfast |
 | **9:00 a.m.** | **Welcoming remarks**<br>Steve McDonald |
-| **9:15 a.m.** | **Keynote 1**<br>Presider: Huiling Ding<br><br>**Hilke Schellmann**<br>Associate Professor, New York University<br>Emmy Award-winning investigative journalist |
+| **9:15 a.m.** | **Keynote 1**<br>**Hilke Schellmann**<br>Associate Professor, New York University<br>Emmy Award-winning investigative journalist <br>Presider: Huiling Ding |
 | **10:30 a.m.** | **Coffee and snack break** |
 | **10:45 a.m.** | **Keynote 2**<br>Presider: Munindar Singh<br><br>**Ifeoma Ajunwa**<br>Asa Griggs Chandler Law Professor<br>AI and the Future of Work Program Director, Emory University |
 | **12:00 p.m.** | **Lunch and book signing** |
