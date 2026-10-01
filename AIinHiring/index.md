@@ -4,7 +4,7 @@ title: "AI in Hiring"
 ---
 <h2 align="center">Promoting Student Success in the AI Job Market</h2>
 <p align="center">
-  <img src="8x8.png" width="75%">
+  <img src="8x8.png" width="40%">
   <br>
   <em><small>Note: Image created by Britney Schreiber, 9/15/26.</small></em>
 </p>
