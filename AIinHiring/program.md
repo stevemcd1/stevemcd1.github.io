@@ -11,9 +11,9 @@ Coastal AgroBusiness Seminar Room
 |---|---|
 | **8:30 a.m.** | **Check-in**<br>Coffee, tea, and breakfast |
 | **9:00 a.m.** | **Welcoming remarks**<br>Steve McDonald |
-| **9:15 a.m.** | **Keynote 1**<br>**Hilke Schellmann**<br>Associate Professor, New York University<br>Emmy Award-winning investigative journalist <br><br>Presider: Steve McDonald |
+| **9:15 a.m.** | **Keynote 1**<br>**Hilke Schellmann**<br>Associate Professor, New York University<br>Emmy Award-winning investigative journalist <br>Author of [The Algorithm](https://www.hachettebookgroup.com/titles/hilke-schellmann/the-algorithm/9780306827365/)<br><br>Presider: Steve McDonald |
 | **10:30 a.m.** | **Coffee and snack break** |
-| **10:45 a.m.** | **Keynote 2**<br>**Ifeoma Ajunwa**<br>Asa Griggs Chandler Law Professor<br>AI and the Future of Work Program Director, Emory University <br><br>Presider: Munindar Singh |
+| **10:45 a.m.** | **Keynote 2**<br>**Ifeoma Ajunwa**<br>Asa Griggs Chandler Law Professor<br>AI and the Future of Work Program Director, Emory University <br>Author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D)<br><br>Presider: Munindar Singh |
 | **12:00 p.m.** | **Lunch and book signing** |
 | **1:15 p.m.** | **Industry panel on AI in Hiring**<br>**Haroon Abbu**, Head of AI Strategy at Bell + Howell<br><br>**Joey Levene**, HR Coordinator, Toshiba<br><br>**Jane Mehringer**, Global Head of Talent Attraction, ABB<br><br>**Enrique Lambrano**, Owner of Tenzor AI Talent Agency <br><br>Moderator: Bill Rand |
 | **2:15 p.m.** | **Academic panel on AI in Hiring**<br>**Sandeep Kaur Kuttal**, Associate Professor of Computer Science and Director of the Human Factors + Experience Engineering Lab, NC State University<br><br>**Steve McDonald**, Distinguished Graduate Professor of Sociology, University Faculty Scholar, and Director of the AI in Hiring Lab, NC State University<br><br>**Sonia Gipson Rankin**, Interim Associate Dean of Technology and Innovation and Law, NC Central University <br><br>Moderator: Kevin Lee |
