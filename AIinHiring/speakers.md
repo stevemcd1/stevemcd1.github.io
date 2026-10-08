@@ -1,10 +1,12 @@
 # Keynote Speakers
 **Hilke Schellmann**
- - Associate Professor, New York University
+<img align="left" src="Schellmann.png">
+- Associate Professor, New York University
  - Emmy Award-winning investigative journalist
  - Author of The Algorithm
 
 **Ifeoma Ajunwa**
+<img align="left" src="Ajunwa.png">
  - Asa Griggs Chandler Law Professor
  - AI and the Future of Work Program Director, Emory University
  - Author of The Quantified Worker
