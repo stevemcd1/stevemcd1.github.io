@@ -16,22 +16,22 @@
 
 # Industry Panelists
 **Haroon Abbu**
-<img align="left" src="abbu.jpg" height="300" alt="">
+<img align="left" src="abbu.jpg" height="150" alt="">
 - Senior VP of Digital Technology, AI, & Data Analytics
 - Bell & Howell
 
 **Jane Mehringer**
-<img align="left" src="mehringer.jpg" height="300" alt="">
+<img align="left" src="mehringer.jpg" height="150" alt="">
 - Global Head
 - Talent Attraction at ABB
 
 **Enrique Lambrano**
-<img align="left" src="lambrano.jpg" height="300" alt="">
+<img align="left" src="lambrano.jpg" height="150" alt="">
 - Founder
 - Tenzor AI Talent
 
 **Joey Levene**
-<img align="left" src="levene.jpg" height="300" alt="">
+<img align="left" src="levene.jpg" height="150" alt="">
 - Human Resources Coordinator
 - Toshiba Global Commerce Solutions
 
