@@ -56,24 +56,31 @@
 
 # Student Panelists
 **Meriam Ali**
+<img align="left" src="ali.png" height="150" alt="">
 - Electrical and Computer Engineering
 
 **Sanjana Cheerla**
+<img align="left" src="cheerla.jpg" height="150" alt="">
 - Computer Science
 
 **Sonali Chhaya**
+<img align="left" src="chhaya.png" height="150" alt="">
  - Business Analytics
 
 **Pablo Comino**
+<img align="left" src="comino.png" height="150" alt="">
  - Cybersecurity
 
 **Victor Hermida**
+<img align="left" src="hermida.jpg" height="150" alt="">
 - Computer Science
 
 **Ryan Laraway**
+<img align="left" src="rlaraway.png" height="150" alt="">
  - Business Analytics
 
 **Krys Woodruff**
+<img align="left" src="woodruff.jpg" height="150" alt="">
  - Chemical Engineering
 
 # Closing Speaker
