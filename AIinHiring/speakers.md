@@ -186,3 +186,4 @@
 <img align="left" src="schreiber.jpg" height="150" alt="Britney Schreiber">
 - Sociology PhD Student
 <br clear="left">
+
