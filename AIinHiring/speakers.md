@@ -36,7 +36,7 @@
 - Toshiba Global Commerce Solutions
 
 # Academic Panelists
-**Sandeep Kaur Kuttal**
+**Sandeep Kuttal**
 <img align="left" src="kuttal.jpg" height="150" alt="">
 - Associate Professor of Computer Science
 - Director of the Human Factors + Experience Engineering Lab
