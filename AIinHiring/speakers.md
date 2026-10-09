@@ -1,19 +1,25 @@
 # AI in Hiring Symposium
 ## Keynote Speakers
 **[Hilke Schellmann](https://www.hilkeschellmann.com/)**
+
 <img align="left" src="Schellmann.png" alt="Hilke Schellmann">
+
 - Associate Professor
 - New York University
 - Emmy Award-winning investigative journalist
 - Author of [The Algorithm](https://www.hachettebookgroup.com/titles/hilke-schellmann/the-algorithm/9780306827365/)
+
 <br clear="left">
 
 **[Ifeoma Ajunwa](https://ifeomaajunwa.com/)**
+
 <img align="left" src="Ajunwa.png" alt="Ifeoma Ajunwa">
+
 - Asa Griggs Chandler Law Professor
 - AI and the Future of Work Program Director
 - Emory University
 - Author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D)
+
 <br clear="left">
 
 ## Industry Panelists
