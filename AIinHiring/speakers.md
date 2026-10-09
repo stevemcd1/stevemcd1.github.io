@@ -1,4 +1,5 @@
-# Keynote Speakers
+# AI in Hiring Symposium
+## Keynote Speakers
 **[Hilke Schellmann](https://www.hilkeschellmann.com/)**
 <img align="left" src="Schellmann.png">
 - Associate Professor
@@ -15,7 +16,7 @@
 - Author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D)
 <br clear="left">
 
-# Industry Panelists
+## Industry Panelists
 **[Haroon Abbu](https://www.linkedin.com/in/haroonabbu/)**
 <img align="left" src="abbu.jpg" height="150" alt="">
 - Senior VP of Digital Technology, AI, & Data Analytics
@@ -40,7 +41,7 @@
 - Toshiba Global Commerce Solutions
 <br clear="left">
 
-# Academic Panelists
+## Academic Panelists
 **[Sandeep Kuttal](https://skuttal.github.io/skk/)**
 <img align="left" src="kuttal.jpg" height="150" alt="">
 - Associate Professor of Computer Science
@@ -62,7 +63,7 @@
  - NC Central University
 <br clear="left">
 
-# Student Panelists
+## Student Panelists
 **Meriam Ali**
 <img align="left" src="ali.png" height="150" alt="">
 - Electrical and Computer Engineering, Senior
@@ -126,7 +127,7 @@
 - Leadership & Experience: Previously interned at TSMC, Texas Instruments, ExxonMobil
 <br clear="left">
 
-# Closing Speaker
+## Closing Speaker
 **[Sarah Heckman](https://sheckman.github.io/)**
 <img align="left" src="heckman.jpg" height="150" alt="">
 - Alumni Distinguished Undergraduate Professor of Computer Science
@@ -134,7 +135,7 @@
 - NC State University
 <br clear="left">
 
-# Symposium Organizers
+## Symposium Organizers
 **[Steve McDonald](https://stevemcd1.github.io/)**
 <img align="left" src="mcdonald.jpg" height="150" alt="">
 - Distinguished Graduate Professor of Sociology
