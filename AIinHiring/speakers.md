@@ -18,57 +18,50 @@
 <br clear="left">
 
 # Industry Panelists
-**Haroon Abbu**
+**[Haroon Abbu](https://www.linkedin.com/in/haroonabbu/)**
 <img align="left" src="abbu.jpg" height="150" alt="">
 - Senior VP of Digital Technology, AI, & Data Analytics
 - Bell & Howell
-- [more info](https://www.linkedin.com/in/haroonabbu/)
 <br clear="left">
 
-**Jane Mehringer**
+**[Jane Mehringer](https://www.linkedin.com/in/janemehringer/)**
 <img align="left" src="mehringer.jpg" height="150" alt="">
 - Global Head
 - Talent Attraction at ABB
-- [more info](https://www.linkedin.com/in/janemehringer/)
 <br clear="left">
 
-**Enrique Lambrano**
+**[Enrique Lambrano](https://www.linkedin.com/in/enrique-lambrano/)**
 <img align="left" src="lambrano.jpg" height="150" alt="">
 - Founder
 - Tenzor AI Talent
-- [more info](https://www.linkedin.com/in/enrique-lambrano/)
 <br clear="left">
 
-**Joey Levene**
+**[Joey Levene](https://www.linkedin.com/in/joeylevene/)**
 <img align="left" src="levene.jpg" height="150" alt="">
 - Human Resources Coordinator
 - Toshiba Global Commerce Solutions
-- [more info](https://www.linkedin.com/in/joeylevene/)
 <br clear="left">
 
 # Academic Panelists
-**Sandeep Kuttal**
+**[Sandeep Kuttal](https://skuttal.github.io/skk/)**
 <img align="left" src="kuttal.jpg" height="150" alt="">
 - Associate Professor of Computer Science
 - Director of the Human Factors + Experience Engineering Lab
 - NC State University
-- [more info](https://skuttal.github.io/skk/)
 <br clear="left">
 
-**Steve McDonald**
+**[Steve McDonald](https://stevemcd1.github.io/)**
 <img align="left" src="mcdonald.jpg" height="150" alt="">
 - Distinguished Graduate Professor of Sociology
 - University Faculty Scholar
 - Director of the AI in Hiring Lab
 - NC State University
-- [more info](https://stevemcd1.github.io/)
 <br clear="left">
 
-**Sonia Gipson Rankin**
+**[Sonia Gipson Rankin](https://www.nccu.edu/employee/sgipsonr)**
 <img align="left" src="gipson.jpg" height="150" alt="">
  - Interim Associate Dean of Technology and Innovation and Law
  - NC Central University
-- [more info](https://www.nccu.edu/employee/sgipsonr)
 <br clear="left">
 
 # Student Panelists
@@ -136,67 +129,57 @@
 <br clear="left">
 
 # Closing Speaker
-**Sarah Heckman**
+**[Sarah Heckman](https://sheckman.github.io/)**
 <img align="left" src="heckman.jpg" height="150" alt="">
 - Alumni Distinguished Undergraduate Professor of Computer Science
 - Acting Executive Director, Data Science and AI Academy
 - NC State University
-- [more info](https://sheckman.github.io/)
 <br clear="left">
 
 # Symposium Organizers
-**Steve McDonald**
+**[Steve McDonald](https://stevemcd1.github.io/)**
 <img align="left" src="mcdonald.jpg" height="150" alt="">
 - Distinguished Graduate Professor of Sociology
 - University Faculty Scholar
 - Director of the AI in Hiring Lab
 - NC State University
-- [more info](https://stevemcd1.github.io/)
 <br clear="left">
 
-**Kelly Laraway**
+**[Kelly Laraway](https://careers.dasa.ncsu.edu/people/kelly-laraway/)**
 <img align="left" src="laraway.jpg" height="150" alt="">
 - Director of Employer Relations
 - Career Development Center
 - NC State University
-- [more info](https://careers.dasa.ncsu.edu/people/kelly-laraway/)
 <br clear="left">
 
-**Bill Rand**
+**[Kevin Lee](https://www.linkedin.com/in/proflee/)**
+<img align="left" src="lee.jpg" height="150" alt="">
+- Executive Director
+- Institute for AI and Democratic Governance 
+<br clear="left">
+
+**[Bill Rand](https://analytics.ncsu.edu/people/wmrand/)**
 <img align="left" src="rand.jpg" height="150" alt="">
 - McLauchlan Distinguished Professor of Marketing and Analytics
 - Goodnight Executive Director of the Institute for Advanced Analytics
 - NC State University
-- [more info](https://analytics.ncsu.edu/people/wmrand/)
 <br clear="left">
 
-**Munindar Singh**
+**[Munindar Singh](https://www.csc2.ncsu.edu/faculty/mpsingh/)**
 <img align="left" src="singh.jpg" height="150" alt="">
 - SAS Institute Distinguished Professor of Computer Science
 - NC State University
-- [more info](https://www.csc2.ncsu.edu/faculty/mpsingh/)
 <br clear="left">
 
-**Kevin Lee**
-<img align="left" src="lee.jpg" height="150" alt="">
-- Executive Director
-- Institute for AI and Democratic Governance 
-- [more info](https://www.linkedin.com/in/proflee/)
-<br clear="left">
-
-**Huiling Ding**
+**[Huiling Ding](https://chass.ncsu.edu/people/hding/)**
 <img align="left" src="ding.png" height="150" alt="">
 - Professor of Technical Communication
 - University Faculty Scholar
 - Director of Labor Analytics/Workforce Development, Data Science & AI Academy
 - NC State University
-- [more info](https://chass.ncsu.edu/people/hding/)
 <br clear="left">
 
 **Britney Schreiber**
 <img align="left" src="schreiber.jpg" height="150" alt="">
 - Sociology PhD Student
 <br clear="left">
-
-
-
