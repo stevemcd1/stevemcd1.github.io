@@ -3,16 +3,18 @@
 <img align="left" src="Schellmann.png">
 - Associate Professor
 - New York University
- - Emmy Award-winning investigative journalist
- - Author of The Algorithm
+- Emmy Award-winning investigative journalist
+- Author of The Algorithm
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **[Ifeoma Ajunwa](https://ifeomaajunwa.com/)**
 <img align="left" src="Ajunwa.png">
- - Asa Griggs Chandler Law Professor
- - AI and the Future of Work Program Director
- - Emory University
- - Author of The Quantified Worker
+- Asa Griggs Chandler Law Professor
+- AI and the Future of Work Program Director
+- Emory University
+- Author of The Quantified Worker
+- [more info](https://ifeomaajunwa.com/)
 <br clear="left">
 
 # Industry Panelists
@@ -20,24 +22,28 @@
 <img align="left" src="abbu.jpg" height="150" alt="">
 - Senior VP of Digital Technology, AI, & Data Analytics
 - Bell & Howell
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Jane Mehringer**
 <img align="left" src="mehringer.jpg" height="150" alt="">
 - Global Head
 - Talent Attraction at ABB
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Enrique Lambrano**
 <img align="left" src="lambrano.jpg" height="150" alt="">
 - Founder
 - Tenzor AI Talent
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Joey Levene**
 <img align="left" src="levene.jpg" height="150" alt="">
 - Human Resources Coordinator
 - Toshiba Global Commerce Solutions
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 # Academic Panelists
@@ -46,6 +52,7 @@
 - Associate Professor of Computer Science
 - Director of the Human Factors + Experience Engineering Lab
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Steve McDonald**
@@ -54,12 +61,14 @@
 - University Faculty Scholar
 - Director of the AI in Hiring Lab
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Sonia Gipson Rankin**
 <img align="left" src="gipson.jpg" height="150" alt="">
  - Interim Associate Dean of Technology and Innovation and Law
  - NC Central University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 # Student Panelists
@@ -132,6 +141,7 @@
 - Alumni Distinguished Undergraduate Professor of Computer Science
 - Acting Executive Director, Data Science and AI Academy
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 # Symposium Organizers
@@ -141,6 +151,7 @@
 - University Faculty Scholar
 - Director of the AI in Hiring Lab
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Kelly Laraway**
@@ -148,6 +159,7 @@
 - Director of Employer Relations
 - Career Development Center
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Bill Rand**
@@ -155,18 +167,21 @@
 - McLauchlan Distinguished Professor of Marketing and Analytics
 - Goodnight Executive Director of the Institute for Advanced Analytics
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Munindar Singh**
 <img align="left" src="singh.jpg" height="150" alt="">
 - SAS Institute Distinguished Professor of Computer Science
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Kevin Lee**
 <img align="left" src="lee.jpg" height="150" alt="">
 - Executive Director
 - Institute for AI and Democratic Governance 
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Huiling Ding**
@@ -175,6 +190,7 @@
 - University Faculty Scholar
 - Director of Labor Analytics/Workforce Development, Data Science & AI Academy
 - NC State University
+- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **Britney Schreiber**
