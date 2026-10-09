@@ -1,7 +1,6 @@
 # AI in Hiring Symposium
 ## Keynote Speakers
 **[Hilke Schellmann](https://www.hilkeschellmann.com/)**
-
 <img align="left" src="Schellmann.png" alt="Hilke Schellmann">
 
 - Associate Professor
@@ -12,7 +11,6 @@
 <br clear="left">
 
 **[Ifeoma Ajunwa](https://ifeomaajunwa.com/)**
-
 <img align="left" src="Ajunwa.png" alt="Ifeoma Ajunwa">
 
 - Asa Griggs Chandler Law Professor
