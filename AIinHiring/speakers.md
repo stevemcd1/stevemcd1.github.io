@@ -14,78 +14,81 @@
  - Author of The Quantified Worker
 
 # Industry Panelists
-Haroon Abbu
+**Haroon Abbu**
 – Senior VP of Digital Technology, AI, & Data Analytics
 - Bell & Howell
-Jane Mehringer
+**Jane Mehringer**
 – Global Head
 - Talent Attraction at ABB
-Enrique Lambrano
+**Enrique Lambrano**
 – Founder
 - Tenzor AI Talent
-Joey Levene
+**Joey Levene**
 – Human Resources Coordinator
 - Toshiba Global Commerce Solutions
 
 # Academic Panelists
-Sandeep Kaur Kuttal
+**Sandeep Kaur Kuttal**
 - Associate Professor of Computer Science
 - Director of the Human Factors + Experience Engineering Lab
 - NC State University
-Steve McDonald
+**Steve McDonald**
 - Distinguished Graduate Professor of Sociology
 - University Faculty Scholar
 - Director of the AI in Hiring Lab
 - NC State University
-Sonia Gipson Rankin
+**Sonia Gipson Rankin**
  - Interim Associate Dean of Technology and Innovation and Law
  - NC Central University
 
 # Student Panelists
-Meriam Ali
+**Meriam Ali**
 - Electrical and Computer Engineering
-Sanjana Cheerla
+**Sanjana Cheerla**
 - Computer Science
-Sonali Chhaya
+**Sonali Chhaya**
  - Business Analytics
-Pablo Comino
+**Pablo Comino**
  - Cybersecurity
-Victor Hermida
+**Victor Hermida**
 - Computer Science
-Ryan Laraway
+**Ryan Laraway**
  - Business Analytics
-Krys Woodruff
+**Krys Woodruff**
  - Chemical Engineering
 
 # Closing Speaker
-Sarah Heckman
+**Sarah Heckman**
 - Alumni Distinguished Undergraduate Professor of Computer Science
 - Acting Executive Director, Data Science and AI Academy
 - NC State University
 
 # Symposium Organizers
-Steve McDonald
+**Steve McDonald**
 - Distinguished Graduate Professor of Sociology
 - University Faculty Scholar
 - Director of the AI in Hiring Lab
 - NC State University
-Kelly Laraway
+**Kelly Laraway**
 - Director of Employer Relations
 - Career Development Center
 - NC State University
-Bill Rand 
-Munindar Singh
+**Bill Rand**
+- McLauchlan Distinguished Professor of Marketing and Analytics
+- Goodnight Executive Director of the Institute for Advanced Analytics
+- NC State University
+**Munindar Singh**
 - SAS Institute Distinguished Professor of Computer Science
 - NC State University
-Kevin Lee
+**Kevin Lee**
 - Executive Director
 - Institute for AI and Democratic Governance 
-Huiling Ding
+**Huiling Ding**
 - Professor of Technical Communication
 - University Faculty Scholar
 - Director of Labor Analytics/Workforce Development, Data Science & AI Academy
 - NC State University
-Britney Schreiber
+**Britney Schreiber**
 - Sociology PhD Student
 
 
