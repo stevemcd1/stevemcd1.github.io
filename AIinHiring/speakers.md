@@ -5,7 +5,6 @@
 - New York University
 - Emmy Award-winning investigative journalist
 - Author of The Algorithm
-- [more info](https://www.hilkeschellmann.com/)
 <br clear="left">
 
 **[Ifeoma Ajunwa](https://ifeomaajunwa.com/)**
@@ -14,7 +13,6 @@
 - AI and the Future of Work Program Director
 - Emory University
 - Author of The Quantified Worker
-- [more info](https://ifeomaajunwa.com/)
 <br clear="left">
 
 # Industry Panelists
