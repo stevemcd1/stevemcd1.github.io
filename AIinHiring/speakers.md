@@ -57,31 +57,59 @@
 # Student Panelists
 **Meriam Ali**
 <img align="left" src="ali.png" height="150" alt="">
-- Electrical and Computer Engineering
+- Electrical and Computer Engineering | Senior
+- Career interest: Embedded Systems, AI
+- AI & hiring experience: I’ve used AI in my internships and have also been asked to talk about my AI experience in interviews; it’s become an important part of the hiring process
+- Uses AI for: Learning new concepts, email and resume refinement, note-taking
+- Leadership & Experience: President of Women in ECE, previously interned at Lenovo and John Deere
 
 **Sanjana Cheerla**
 <img align="left" src="cheerla.jpg" height="150" alt="">
-- Computer Science
+- Computer Science | PhD
+- Career interest: Applied AI, NLP, and building trustworthy AI systems that solve real-world problems - industry oriented.
+- AI & hiring experience: experience in developing AI powered tools for industry at AWS/Credit Karma and research. More specifically, fine-tuning models, neuro-symbolic AI, using AI as a judge, chaining models, RAG, and agentic AI.
+- Uses AI for: Coding, proofreading, Using AI as a reviewer to strengthen research manuscripts, automation of repetitive tasks, and making presentation slides in LaTeX.
+- Leadership & Experience: Computer Science Graduate Student Association President,  PhD researcher in Applied AI and NLP, Teaching Assistant (HCI, ML (ALDA), Software Engineering, and Software Security) , and former 2x AWS Intern and Credit Karma Intern.
 
 **Sonali Chhaya**
 <img align="left" src="chhaya.png" height="150" alt="">
- - Business Analytics
+- Business Analytics | Junior
+- Career interest: Business Analytics 
+- AI & hiring experience: Knowing how to use AI to automate tasks, proofread, and trouble shoot makes you a more viable candidate. The issue is not doing the work, as more complex AI models are able to solve hard problems, the work lies in understanding how to correct AI solutions with a human touch.
+- Uses AI for: Resume refinement, EmaiL/Linkedin message editing, Job description/specification parsing
+- Leadership & Experience: Peer Career Coach, Poole Student Ambassador, 180 Degrees Consultant 
 
 **Pablo Comino**
 <img align="left" src="comino.png" height="150" alt="">
- - Cybersecurity
+- Computer Science | Junior
+- Career interest: Cybersecurity / Offensive Security
+- AI & hiring experience: AI & Safety in Offensive Security Assessments
+- Uses AI for: Building applications, security reviews, vulnerability finding.
+- Leadership & Experience: OSCP+ Certified, ISSA President, HackPack VP
 
 **Victor Hermida**
 <img align="left" src="hermida.jpg" height="150" alt="">
-- Computer Science
+- Computer Science | Senior
+- Career interest: Software Engineer, Data Science 
+- AI & hiring experience: AI is a new thing in technology, and any company will hire you if you know how to use it effectively. 
+- Uses AI for: Learning new concepts, Research
+- Leadership & Experience: Ex-President of Latino Association of Computer Science, Computer Science Ambassador
 
 **Ryan Laraway**
 <img align="left" src="rlaraway.png" height="150" alt="">
- - Business Analytics
+- Business Analytics | Senior at William Peace University
+- Career interest: Accounting, Business Analytics, Consulting
+- AI & hiring experience: Small Businesses to Large corporations use of AI in hiring
+- Uses AI for: Troubleshooting formulas and workflows, automating repetitive tasks, summarizing complex information, improving written and visual deliverables.
+- Leadership & Experience: Student Body President, Dealership Accounting and Tax Intern, Small business consultant 
 
 **Krys Woodruff**
 <img align="left" src="woodruff.jpg" height="150" alt="">
- - Chemical Engineering
+- Chemical Engineering | 4th year
+- Career interest: Sales Engineering, Operations/Supply Chain 
+- AI & hiring experience: In a world surrounded by data, learning how to use AI efficiently makes you a better asset to yourself and others
+- Uses AI for: Email restructuring/condensing, displaying large chunks of data in dashboards, notes history summary 
+- Leadership & Experience: Previously interned at TSMC, Texas Instruments, ExxonMobil
 
 # Closing Speaker
 **Sarah Heckman**
