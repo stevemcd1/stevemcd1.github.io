@@ -50,7 +50,7 @@
 - NC State University
 
 **Sonia Gipson Rankin**
-<img align="left" src="rankin.jpg" height="150" alt="">
+<img align="left" src="gipson.jpg" height="150" alt="">
  - Interim Associate Dean of Technology and Innovation and Law
  - NC Central University
 
