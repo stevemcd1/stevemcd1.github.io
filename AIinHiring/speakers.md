@@ -77,6 +77,7 @@
 
 # Symposium Organizers
 **Steve McDonald**
+<img align="left" src="mcdonald.jpg">
 - Distinguished Graduate Professor of Sociology
 - University Faculty Scholar
 - Director of the AI in Hiring Lab
@@ -88,6 +89,7 @@
 - NC State University
 
 **Bill Rand**
+<img align="left" src="Rand.jpg">
 - McLauchlan Distinguished Professor of Marketing and Analytics
 - Goodnight Executive Director of the Institute for Advanced Analytics
 - NC State University
