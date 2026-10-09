@@ -1,5 +1,5 @@
 # Keynote Speakers
-**Hilke Schellmann**
+**[Hilke Schellmann](https://www.hilkeschellmann.com/)**
 <img align="left" src="Schellmann.png">
 - Associate Professor
 - New York University
@@ -7,7 +7,7 @@
  - Author of The Algorithm
 <br clear="left">
 
-**Ifeoma Ajunwa**
+**[Ifeoma Ajunwa](https://ifeomaajunwa.com/)**
 <img align="left" src="Ajunwa.png">
  - Asa Griggs Chandler Law Professor
  - AI and the Future of Work Program Director
