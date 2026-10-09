@@ -89,7 +89,7 @@
 - NC State University
 
 **Bill Rand**
-<img align="left" src="Rand.jpg">
+<img align="left" src="rand.jpg" height="300" alt="">
 - McLauchlan Distinguished Professor of Marketing and Analytics
 - Goodnight Executive Director of the Institute for Advanced Analytics
 - NC State University
