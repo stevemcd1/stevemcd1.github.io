@@ -6,6 +6,7 @@
  - Emmy Award-winning investigative journalist
  - Author of The Algorithm
 
+
 **Ifeoma Ajunwa**
 <img align="left" src="Ajunwa.png">
  - Asa Griggs Chandler Law Professor
