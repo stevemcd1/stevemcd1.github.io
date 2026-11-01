@@ -15,7 +15,7 @@ This initiative is funded by the [North Carolina State University Foundation](ht
 
 This project involves several initiatives. 
 
-## Broadening Understanding of AI in Hiring Perspectives
+## AI in Hiring Symposium
 
 In order to better understand the various community perspectives into the rapid incorporation of AI into hiring, we organized a local symposium on the topic that brings together national experts and local practitioners in order to share and debate ideas about the promise and pitfalls of AI in hiring. The symposium activities are highlighted below:
 
