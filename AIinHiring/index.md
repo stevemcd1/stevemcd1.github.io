@@ -2,14 +2,12 @@
 layout: ww
 title: "AI in Hiring"
 ---
-<h2 align="center">Promoting Student Success in the AI Job Market</h2>
+<h2 align="center">AI in Hiring Lab</h2>
 <p align="center">
   <img src="8x8.png" width="25%">
   <br>
   <em><small>Note: Image created by Britney Schreiber, 9/15/26.</small></em>
 </p>
-
-*AI in Hiring*
 
 The **AI in Hiring Lab** aims to develop new opportunities for better understanding and integrating generative artificial intelligence into recruitment, screening, and hiring technology. 
 
