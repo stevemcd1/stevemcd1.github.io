@@ -17,22 +17,9 @@ This project involves several initiatives.
 
 ## AI in Hiring Symposium
 
-In order to better understand the various community perspectives into the rapid incorporation of AI into hiring, we organized a local symposium on the topic that brings together national experts and local practitioners in order to share and debate ideas about the promise and pitfalls of AI in hiring. The symposium activities are highlighted below:
+In order to better understand the various community perspectives into the rapid incorporation of AI into hiring, we organized a local symposium on the topic that brings together national experts and local practitioners in order to share and debate ideas about the promise and pitfalls of AI in hiring. 
 
-### Keynote Speakers
-#### Hilke Schellmann 
-Associate Professor of journalism at New York University. She is a multimedia reporter and documentarian who has made numerous contributions to The Wall Street Journal, The Guardian, The New York Times, VICE, HBO, PBS, TIME, National Geographic, The Atlantic, etc. Her documentary film Outlawed in Pakistan won an Emmy along with several other film awards. In another film, which was a finalist for the Peabody Awards, she investigated the student loan crisis. Her acclaimed book, The Algorithm: How AI Decides Who Gets Hired, Monitored, Promoted, and Fired, And Why We Need To Fight Back. In the book, she investigates the rise of AI in the world of work. Drawing on exclusive information from whistleblowers, internal documents and real‑world tests, she uncovers the many harms associated with the increased use of algorithms for making hiring decisions. 
-
-#### Ifeoma Ajunwa
-Asa Griggs Chandler Law Professor and Director of the AI and the Future of Work Program at Emory University. Named among the top 50 legal innovators in academia in 2026, she is an expert in AI Law and Privacy Law. She has testified before the U.S. Congress, advised U.S. governmental agencies like the FTC and the EEOC, and worked with international bodies like the ILO and OECD. An engaged public intellectual, Dr. Ajunwa has contributed op-eds to the NYTimes, Washington Post, The Atlantic, Forbes, Slate, Harvard Business Review, plus legal commentary for National Public Radio (NPR), The Guardian, CNN, Bloomberg, and the Wall Street Journal. She has published widely and extensively, including in top law reviews and other high impact scholarly outlets. Her book, The Quantified Worker, is an impressive work in both scope and depth. It is a touchstone for understanding thorny legal and ethical issues related to AI and work writ large. A major part of the contribution from this trailblazing book addresses the rapid incorporation of AI into hiring systems and the institutional dynamics that are shaping and shaped by this transition. 
-
-#### Industry Panel
-
-
-#### Academic Panel
-
-
-#### Student Panel
+[The program](https://stevemcd1.github.io/AIinHiring/program.html) included keynotes from [Hilke Schellmann](https://www.hilkeschellmann.com/) -- Associate Professor, New York University, Emmy Award-winning investigative journalist, and author of [The Algorithm](https://www.hachettebookgroup.com/titles/hilke-schellmann/the-algorithm/9780306827365/) -- and [Ifeoma Ajunwa](https://ifeomaajunwa.com/) -- Asa Griggs Chandler Law Professor and Director of the AI and the Future of Work Program at Emory University, and author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D). The afternoon session included panels that revealed the unique perspectives and experiences AI in Hiring among local industry practitioners, academic experts, and college students. 
 
 
 
