@@ -21,10 +21,21 @@ In order to better understand the various community perspectives into the rapid 
 
 [The program](https://stevemcd1.github.io/AIinHiring/program.html) included keynotes from [Hilke Schellmann](https://www.hilkeschellmann.com/) -- Associate Professor, New York University, Emmy Award-winning investigative journalist, and author of [The Algorithm](https://www.hachettebookgroup.com/titles/hilke-schellmann/the-algorithm/9780306827365/) -- and [Ifeoma Ajunwa](https://ifeomaajunwa.com/) -- Asa Griggs Chandler Law Professor and Director of the AI and the Future of Work Program at Emory University, and author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D). The afternoon session included panels that revealed the unique perspectives and experiences AI in Hiring among local industry practitioners, academic experts, and college students. 
 
+## Research Projects
 
+### AH - Impact
+This series of research projects explores the impact of AI in hiring on job seekers and the labor force. Our survey from NCSU undergraduate students covers a wide range of topics including: 1) general familiarity with and frequent use of AI, 2) use of AI tools as part of job searching, 3) knowledge of and comfort with employers’ use of AI in hiring, 4) perceived benefits and risks of AI use in hiring, and 5) attitudes regarding legal/regulatory approaches to AI in hiring. We are drawing on national survey datasets to examine variation in job search processes and outcomes across educational majors and occupations that are differentially exposed to and trained for AI careers. 
 
+### AH - Interface
+We are studying how AI is being integrated into the hiring systems and processes of organizations. This will be accomplished through in-depth interviews with  human resource professionals and hiring managers. We are also examining online discussions among HR professionals about the role of AI in their hiring systems. 
 
-### Coordinating Committee
+### AH - Frames
+This series of studies explores changes over time in the broader discourse about AI in hiring through mixed methods analysis of online news and trade publications. This research tracks variation in the social construction and contestation over AI in hiring by various publics. 
+
+### AH - Efficacy
+Here we focus our research lens on the tech itself, engaging in a socio-technical analysis of AI tools to better understand their benefits and blind spots. These investigations include algorithmic audits, affordance analyses, and systems analyses of AI in hiring technology. 
+
+## Coordinating Committee
 - [Steve McDonald](https://stevemcd1.github.io/), Alumni Association Distinguished Graduate Professor of Sociology
 - [Huiling Ding](https://huilingding.wordpress.ncsu.edu/), University Faculty Scholar and Professor of English
 - [Kelly Laraway](https://careers.dasa.ncsu.edu/people/kelly-laraway/), Director of Employer Relations, Career Development Center
@@ -34,7 +45,7 @@ In order to better understand the various community perspectives into the rapid 
 - Britney Schreiber, PhD Student in Sociology
 
 ### Activities to date
-During the spring semester, we collected survey data from NCSU undergraduate students. The survey covered a wide range of topics including: 1) general familiarity with and frequent use of AI, 2) use of AI tools as part of job searching, 3) knowledge of and comfort with employers’ use of AI in hiring, 4) perceived benefits and risks of AI use in hiring, and 5) attitudes regarding legal/regulatory approaches to AI in hiring. Preliminary results from the survey were presented at the Ethics and Agentic AI Symposium on May 26 at NC State. Further research is being prepared for publication.  
+During the spring semester, we collected Preliminary results from the survey were presented at the Ethics and Agentic AI Symposium on May 26 at NC State. Further research is being prepared for publication.  
 
 ### Future Activities
 - On October 13, 2026, we are bringing national and local experts on AI in hiring to campus for a [public symposium](https://stevemcd1.github.io/AIinHiring/symposium.html) aimed at fostering new and productive conversations about how to best navigate the new challenges associated with the increased use of AI in hiring.
