@@ -6,7 +6,7 @@ title: "AI in Hiring"
 <p align="center">
   <img src="8x8.png" width="25%">
   <br>
-  <em><verysmall>Note: Image created by Britney Schreiber, 9/15/26.</verysmall></em>
+  <em><vsmall>Note: Image created by Britney Schreiber, 9/15/26.</vsmall></em>
 </p>
 
 The **AI in Hiring Lab** aims to develop new opportunities for better understanding and integrating generative artificial intelligence into recruitment, screening, and hiring technology. 
