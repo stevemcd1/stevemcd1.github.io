@@ -6,7 +6,7 @@ title: "AI in Hiring"
 <p align="center">
   <img src="8x8.png" width="25%">
   <br>
-  <em><small>Note: Image created by Britney Schreiber, 9/15/26.</small></em>
+  <em><verysmall>Note: Image created by Britney Schreiber, 9/15/26.</small></em>
 </p>
 
 The **AI in Hiring Lab** aims to develop new opportunities for better understanding and integrating generative artificial intelligence into recruitment, screening, and hiring technology. 
@@ -16,7 +16,6 @@ This initiative is funded by the [North Carolina State University Foundation](ht
 This project involves several initiatives. 
 
 ## AI in Hiring Symposium
-
 In order to better understand the various community perspectives into the rapid incorporation of AI into hiring, we organized a local symposium on the topic that brings together national experts and local practitioners in order to share and debate ideas about the promise and pitfalls of AI in hiring. 
 
 [The program](https://stevemcd1.github.io/AIinHiring/program.html) included keynotes from [Hilke Schellmann](https://www.hilkeschellmann.com/) -- Associate Professor, New York University, Emmy Award-winning investigative journalist, and author of [The Algorithm](https://www.hachettebookgroup.com/titles/hilke-schellmann/the-algorithm/9780306827365/) -- and [Ifeoma Ajunwa](https://ifeomaajunwa.com/) -- Asa Griggs Chandler Law Professor and Director of the AI and the Future of Work Program at Emory University, and author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D). The afternoon session included panels that revealed the unique perspectives and experiences AI in Hiring among local industry practitioners, academic experts, and college students. 
@@ -35,6 +34,9 @@ This series of studies explores changes over time in the broader discourse about
 ### AH - Efficacy
 Here we focus our research lens on the tech itself, engaging in a socio-technical analysis of AI tools to better understand their benefits and blind spots. These investigations include algorithmic audits, affordance analyses, and systems analyses of AI in hiring technology. 
 
+## Outreach and Engagement
+Our lab is working with NC State's Career Development Center to enhance the skills of our college students in order to allow them to better navigate the new AI labor market. This will be accomplished by providing a series of student focused workshops with career counseling experts and by developing interactive programming and online exercises for student job seekers. We are also partnering with local business leaders to provide auditing services and guidance for their AI tools. 
+
 ## Coordinating Committee
 - [Steve McDonald](https://stevemcd1.github.io/), Alumni Association Distinguished Graduate Professor of Sociology
 - [Huiling Ding](https://huilingding.wordpress.ncsu.edu/), University Faculty Scholar and Professor of English
@@ -44,14 +46,7 @@ Here we focus our research lens on the tech itself, engaging in a socio-technica
 - Kevin Lee, Legal Scholar, NC State University
 - Britney Schreiber, PhD Student in Sociology
 
-### Activities to date
-During the spring semester, we collected Preliminary results from the survey were presented at the Ethics and Agentic AI Symposium on May 26 at NC State. Further research is being prepared for publication.  
-
-### Future Activities
-- On October 13, 2026, we are bringing national and local experts on AI in hiring to campus for a [public symposium](https://stevemcd1.github.io/AIinHiring/symposium.html) aimed at fostering new and productive conversations about how to best navigate the new challenges associated with the increased use of AI in hiring.
-- We will offer a special topics graduate seminar on AI in Hiring in spring 2027. Interested students should contact steve_mcdonald[at]ncsu[dot]edu.  
-- We are planning a workshop for students on AI in Hiring during the spring 2027 semester. The workshop will share information about the types of AI tools that have been incorporated into organizational HR practices such as recruitment, screening, and selection of job candidates. Students will also learn about strategies for navigating these tools and ways to engage AI to improve their own job searches.
-- Follow up student surveys are being prepared for spring 2027.
-- We are developing student learning modules (to be included on the Career Development Center's website) to help students better understand and navigate the new AI hiring landscape. 
+## Questions? Interest in Partnering?
+Contact [Steve McDonald](https://stevemcd1.github.io/) at [steve_mcdonald@ncsu.edu](mailto:steve_mcdonald@ncsu.edu).  
 
 : Promoting Student Success in the AI Job Market*, funded by the NC State University Foundation, is aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness.
