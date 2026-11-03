@@ -18,11 +18,8 @@ This project involves several initiatives.
 ## AI in Hiring Symposium
 In order to better understand the various community perspectives into the rapid incorporation of AI into hiring, we organized a local symposium on the topic that brings together national experts and local practitioners in order to share and debate ideas about the promise and pitfalls of AI in hiring. 
 
+<img align="right" src="ifeoma_hilke_tall.jpg" width="25%">
 [The program](https://stevemcd1.github.io/AIinHiring/program.html) included keynotes from [Hilke Schellmann](https://www.hilkeschellmann.com/) -- Associate Professor, New York University, Emmy Award-winning investigative journalist, and author of [The Algorithm](https://www.hachettebookgroup.com/titles/hilke-schellmann/the-algorithm/9780306827365/) -- and [Ifeoma Ajunwa](https://ifeomaajunwa.com/) -- Asa Griggs Chandler Law Professor and Director of the AI and the Future of Work Program at Emory University, and author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D). 
-<p align="right">
-  <img src="ifeoma_hilke_tall.jpg" width="25%">
-  <br>
-</p>
 
 The afternoon session included panels that revealed the unique perspectives and experiences AI in Hiring among local industry practitioners, academic experts, and college students. 
 
