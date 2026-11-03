@@ -22,7 +22,7 @@ In order to better understand the various community perspectives into the rapid 
 [The program](https://stevemcd1.github.io/AIinHiring/program.html) included keynotes from [**Hilke Schellmann**](https://www.hilkeschellmann.com/) -- Associate Professor, New York University, Emmy Award-winning investigative journalist, and author of [The Algorithm](https://www.hachettebookgroup.com/titles/hilke-schellmann/the-algorithm/9780306827365/) -- and [**Ifeoma Ajunwa**](https://ifeomaajunwa.com/) -- Asa Griggs Chandler Law Professor and Director of the AI and the Future of Work Program at Emory University, and author of [The Quantified Worker](https://www.cambridge.org/core/books/quantified-worker/CDA274EFF118E3AB6E583424D95DF40D). 
   <br>
 
-The afternoon session included panels that revealed the unique perspectives and experiences AI in Hiring among local **industry practitioners**, **academic experts**, and **college students**. 
+The afternoon session included panels that revealed the unique perspectives and experiences AI in Hiring among local **industry practitioners**, **academic experts**, and **college students**. The full list of speakers is available [**here**](https://stevemcd1.github.io/AIinHiring/speakers.html).
   <br>
 <p align="center">
 <img src="industry2.jpg" width="50%">
