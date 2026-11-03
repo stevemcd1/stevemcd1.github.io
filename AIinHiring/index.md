@@ -35,16 +35,16 @@ The afternoon session included panels that revealed the unique perspectives and 
 
 ## Research Projects
 
-### AH - Impact
+### AiH - Impact
 This series of research projects explores the impact of AI in hiring on job seekers and the labor force. Our survey from NCSU undergraduate students covers a wide range of topics including: 1) general familiarity with and frequent use of AI, 2) use of AI tools as part of job searching, 3) knowledge of and comfort with employers’ use of AI in hiring, 4) perceived benefits and risks of AI use in hiring, and 5) attitudes regarding legal/regulatory approaches to AI in hiring. We are drawing on national survey datasets to examine variation in job search processes and outcomes across educational majors and occupations that are differentially exposed to and trained for AI careers. 
 
-### AH - Interface
+### AiH - Interface
 We are studying how AI is being integrated into the hiring systems and processes of organizations. This will be accomplished through in-depth interviews with  human resource professionals and hiring managers. We are also examining online discussions among HR professionals about the role of AI in their hiring systems. 
 
-### AH - Frames
+### AiH - Frames
 This series of studies explores changes over time in the broader discourse about AI in hiring through mixed methods analysis of online news and trade publications. This research tracks variation in the social construction and contestation over AI in hiring by various publics. 
 
-### AH - Efficacy
+### AiH - Efficacy
 Here we focus our research lens on the tech itself, engaging in a socio-technical analysis of AI tools to better understand their benefits and blind spots. These investigations include algorithmic audits, affordance analyses, and systems analyses of AI in hiring technology. 
 
 ## Outreach and Engagement
@@ -61,5 +61,3 @@ Our lab is working with NC State's Career Development Center to enhance the skil
 
 ## Questions? Interest in Partnering?
 Contact [Steve McDonald](https://stevemcd1.github.io/) at [steve_mcdonald@ncsu.edu](mailto:steve_mcdonald@ncsu.edu).  
-
-: Promoting Student Success in the AI Job Market*, funded by the NC State University Foundation, is aimed at helping students understand how AI is used in hiring and how to build skills to improve career readiness.
