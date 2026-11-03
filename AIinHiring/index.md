@@ -27,6 +27,7 @@ The afternoon session included panels that revealed the unique perspectives and 
 <p align="center">
 <img src="industry2.jpg" width="50%">
 <img src="student2.jpg" width="50%">
+<img src="sandeep.jpg" width="50%">
   <br>
 </p>
 
