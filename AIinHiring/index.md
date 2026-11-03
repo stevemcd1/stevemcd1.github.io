@@ -30,6 +30,8 @@ The afternoon session included panels that revealed the unique perspectives and 
   <br>
 </p>
 
+  <br>
+
 ## Research Projects
 
 ### AH - Impact
