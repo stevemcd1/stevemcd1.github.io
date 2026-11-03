@@ -24,8 +24,11 @@ In order to better understand the various community perspectives into the rapid 
 
 The afternoon session included panels that revealed the unique perspectives and experiences AI in Hiring among local industry practitioners, academic experts, and college students. 
   <br>
-<img align="left" src="industry2.jpg" width="25%">
-<img align="right" src="student2.jpg" width="25%">
+<p align="center">
+<img src="industry2.jpg" width="50%">
+<img src="student2.jpg" width="50%">
+  <br>
+</p>
 
 ## Research Projects
 
